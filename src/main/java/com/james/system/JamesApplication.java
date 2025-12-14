@@ -1,0 +1,16 @@
+
+package com.james.system;
+
+import org.mybatis.spring.annotation.MapperScan;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+@MapperScan("com.james.system.mapper")
+public class JamesApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(JamesApplication.class, args);
+    }
+
+}
