@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>James Basketball System</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            min-height: 100vh;
+            color: #fff;
+        }
+        .header {
+            background: rgba(0,0,0,0.3);
+            padding: 20px;
+            text-align: center;
+            border-bottom: 2px solid #f39c12;
+        }
+        .header h1 {
+            font-size: 2.5em;
+            color: #f39c12;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        .header p {
+            color: #bbb;
+            margin-top: 10px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 25px;
+            margin-top: 30px;
+        }
+        .card {
+            background: rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            transition: transform 0.3s, box-shadow 0.3s;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+            border-color: #f39c12;
+        }
+        .card-icon {
+            font-size: 3em;
+            margin-bottom: 15px;
+        }
+        .card h3 {
+            color: #f39c12;
+            margin-bottom: 10px;
+            font-size: 1.3em;
+        }
+        .card p {
+            color: #aaa;
+            font-size: 0.95em;
+        }
+        .status {
+            margin-top: 50px;
+            text-align: center;
+            padding: 20px;
+            background: rgba(46, 204, 113, 0.2);
+            border-radius: 10px;
+            border: 1px solid #2ecc71;
+        }
+        .status h3 {
+            color: #2ecc71;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏀 James Basketball System</h1>
+        <p>NBA 球星数据展示系统</p>
+    </div>
+    <div class="container">
+        <div class="card-grid">
+            <div class="card">
+                <div class="card-icon">👤</div>
+                <h3>球员管理</h3>
+                <p>管理 NBA 球员基本信息</p>
+            </div>
+            <div class="card">
+                <div class="card-icon">📊</div>
+                <h3>数据统计</h3>
+                <p>查看球员赛季数据统计</p>
+            </div>
+            <div class="card">
+                <div class="card-icon">🏆</div>
+                <h3>荣誉记录</h3>
+                <p>球员生涯荣誉与成就</p>
+            </div>
+            <div class="card">
+                <div class="card-icon">⚙️</div>
+                <h3>系统设置</h3>
+                <p>系统配置与管理</p>
+            </div>
+        </div>
+        <div class="status">
+            <h3>✅ 系统运行正常</h3>
+            <p>Spring Boot 4.0.0 | JDK 25 | MyBatis</p>
+        </div>
+    </div>
+</body>
+</html>
