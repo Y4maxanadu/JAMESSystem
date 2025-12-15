@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.james.system.mapper.NbaPlayerMapper">
+
+    <!-- 结果映射 -->
+    <resultMap id="BaseResultMap" type="com.james.system.entity.NbaPlayer">
+        <id column="player_id" property="playerId"/>
+        <result column="player_name" property="playerName"/>
+        <result column="is_hall_of_fame" property="isHallOfFame"/>
+        <result column="nba_debut_year" property="nbaDebutYear"/>
+        <result column="nba_final_year" property="nbaFinalYear"/>
+        <result column="position" property="position"/>
+        <result column="height_ft" property="heightFt"/>
+        <result column="height_in" property="heightIn"/>
+        <result column="weight_lbs" property="weightLbs"/>
+        <result column="birth_date" property="birthDate"/>
+        <result column="created_at" property="createdAt"/>
+        <result column="updated_at" property="updatedAt"/>
+    </resultMap>
+
+    <!-- 基础列 -->
+    <sql id="Base_Column_List">
+        player_id, player_name, is_hall_of_fame, nba_debut_year, nba_final_year,
+        position, height_ft, height_in, weight_lbs, birth_date, created_at, updated_at
+    </sql>
+
+    <!-- 根据ID查询 -->
+    <select id="selectById" resultMap="BaseResultMap">
+        SELECT <include refid="Base_Column_List"/>
+        FROM nba_players
+        WHERE player_id = #{playerId}
+    </select>
+
+    <!-- 查询所有 -->
+    <select id="selectAll" resultMap="BaseResultMap">
+        SELECT <include refid="Base_Column_List"/>
+        FROM nba_players
+        ORDER BY player_id
+    </select>
+
+    <!-- 根据姓名模糊查询 -->
+    <select id="selectByName" resultMap="BaseResultMap">
+        SELECT <include refid="Base_Column_List"/>
+        FROM nba_players
+        WHERE player_name LIKE CONCAT('%', #{playerName}, '%')
+    </select>
+
+    <!-- 根据位置查询 -->
+    <select id="selectByPosition" resultMap="BaseResultMap">
+        SELECT <include refid="Base_Column_List"/>
+        FROM nba_players
+        WHERE position = #{position}
+    </select>
+
+    <!-- 查询名人堂球员 -->
+    <select id="selectHallOfFamers" resultMap="BaseResultMap">
+        SELECT <include refid="Base_Column_List"/>
+        FROM nba_players
+        WHERE is_hall_of_fame = 1
+    </select>
+
+    <!-- 新增 -->
+    <insert id="insert" useGeneratedKeys="true" keyProperty="playerId">
+        INSERT INTO nba_players (player_name, is_hall_of_fame, nba_debut_year, nba_final_year,
+            position, height_ft, height_in, weight_lbs, birth_date)
+        VALUES (#{playerName}, #{isHallOfFame}, #{nbaDebutYear}, #{nbaFinalYear},
+            #{position}, #{heightFt}, #{heightIn}, #{weightLbs}, #{birthDate})
+    </insert>
+
+    <!-- 更新 -->
+    <update id="update">
+        UPDATE nba_players
+        SET player_name = #{playerName},
+            is_hall_of_fame = #{isHallOfFame},
+            nba_debut_year = #{nbaDebutYear},
+            nba_final_year = #{nbaFinalYear},
+            position = #{position},
+            height_ft = #{heightFt},
+            height_in = #{heightIn},
+            weight_lbs = #{weightLbs},
+            birth_date = #{birthDate}
+        WHERE player_id = #{playerId}
+    </update>
+
+    <!-- 删除 -->
+    <delete id="deleteById">
+        DELETE FROM nba_players WHERE player_id = #{playerId}
+    </delete>
+
+</mapper>
