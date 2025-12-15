@@ -1,0 +1,5352 @@
+﻿id,player_id,college_name
+1,1,Duke
+2,2,Iowa State
+3,3,UCLA
+4,4,LSU
+5,5,Michigan
+6,5,San Jose State
+7,6,California
+8,7,Indiana
+9,8,Western Kentucky
+10,9,Salem University
+11,11,Memphis
+12,12,Pepperdine
+13,13,Long Island University
+14,14,Oral Roberts
+15,15,Hillsdale College
+16,16,Baylor
+17,17,Oklahoma
+18,18,Northwestern
+19,19,Gardner-Webb University
+20,20,Arizona
+21,21,St. Bonaventure
+22,22,UCLA
+23,23,Boston College
+24,24,Pitt
+25,25,Syracuse
+26,26,Kentucky
+27,27,Louisville
+28,28,Loyola Marymount
+29,29,UConn
+30,30,UCLA
+31,31,Kansas
+32,32,Michigan State
+33,33,DePaul
+34,34,Missouri State
+35,35,BYU
+36,36,Moberly Area Community College
+37,36,Michigan State
+38,38,Morehead State University
+39,39,Washington State
+40,39,Cal State Fullerton
+41,40,Illinois State
+42,41,Florida State
+43,42,Duke
+44,43,Fresno State
+45,44,Loyola (MD)
+46,46,Kansas
+47,47,Texas
+48,48,Kentucky
+49,48,UConn
+50,49,Kansas
+51,50,Virginia
+52,51,Virginia
+53,51,Fresno State
+54,52,South Florida
+55,53,West Virginia
+56,54,Tennessee
+57,55,Creighton
+58,56,Creighton
+59,57,Iowa State
+60,58,Virginia Tech
+61,59,Indiana
+62,60,Arizona
+63,61,New Mexico State
+64,62,Marshall
+65,63,Duke
+66,64,Texas
+67,65,Penn
+68,66,Arizona
+69,67,Temple
+70,68,UCLA
+71,69,Villanova
+72,70,Florida State
+73,71,UConn
+74,72,Utah
+75,72,Texas
+76,73,Butler County Community College
+77,73,Oklahoma State
+78,74,Miami (FL)
+79,75,UNLV
+80,76,Utah
+81,76,Weber State
+82,77,UCLA
+83,78,Rice University
+84,79,Duquesne
+85,80,Fresno State
+86,81,Liberty
+87,82,Georgia Tech
+88,83,Vanderbilt
+89,83,Penn State
+90,84,Southern Illinois
+91,85,Wake Forest
+92,86,UNLV
+93,87,Michigan State
+94,88,Blinn College
+95,90,Michigan State
+96,91,Canisius
+97,92,Memphis
+98,93,Saint Joseph's
+99,94,Augsburg College
+100,95,USC
+101,96,Ohio State
+102,96,Kentucky
+103,97,Kentucky
+104,97,USC
+105,98,Indiana
+106,99,Houston
+107,100,Bradley
+108,101,Oklahoma State
+109,102,West Virginia
+110,103,Virginia
+111,104,Georgia Tech
+112,105,Missouri
+113,106,UCLA
+114,107,Drexel
+115,108,Illinois
+116,109,UC Santa Barbara
+117,110,Fresno State
+118,111,California
+119,112,Georgia
+120,113,Georgia
+121,114,Creighton
+122,116,Missouri State
+123,117,UCLA
+124,118,Alabama
+125,121,Dayton
+126,123,Syracuse
+127,124,UNC
+128,125,University of Portland
+129,125,UNLV
+130,126,UNLV
+131,128,Indiana
+132,129,Michigan State
+133,130,BYU
+134,131,Iowa State
+135,132,Illinois
+136,133,Arizona Western College
+137,133,Texas-El Paso
+138,134,Villanova
+139,135,Cincinnati
+140,136,Arizona
+141,137,UCLA
+142,138,Villanova
+143,139,Niagara University
+144,140,Iowa
+145,141,Michigan State
+146,142,Pepperdine
+147,143,Indiana
+148,144,Fayetteville State University
+149,145,UConn
+150,146,Duke
+151,147,Penn State
+152,148,Texas
+153,149,Notre Dame
+154,150,Florida International University
+155,151,Kansas
+156,152,Tulane
+157,153,Pitt
+158,155,Memphis
+159,156,Alabama
+160,157,Alliance College
+161,158,Indiana State University
+162,159,South Florida
+163,160,North Carolina A&T
+164,161,Michigan State
+165,162,UNLV
+166,163,Texas
+167,164,Illinois
+168,165,Arizona State
+169,166,Boston College
+170,167,Rice University
+171,169,Seton Hall
+172,170,Pepperdine
+173,171,Duke
+174,172,Santa Clara
+175,173,Gonzaga
+176,175,Arizona State
+177,176,Arizona
+178,177,Kentucky
+179,178,Kansas
+180,179,Penn State Iowa State
+181,180,Nevada
+182,181,Tennessee Technological University
+183,182,Fordham
+184,183,Florida State
+185,184,Louisville
+186,186,Eastern Kentucky University
+187,188,Boston College
+188,189,Arizona State
+189,190,Duke
+190,191,Rutgers University
+191,192,UCLA
+192,193,Tuskegee University
+193,194,Texas-El Paso
+194,195,Rutgers University
+195,196,NC State
+196,197,UCLA
+197,198,New Mexico
+198,199,UNLV Hawaii
+199,200,Ohio State
+200,201,Oklahoma State
+201,203,Wichita State
+202,204,University of Hartford
+203,205,UW-Milwaukee
+204,206,Vanderbilt
+205,207,South Carolina
+206,208,UNC Charlotte
+207,210,UCLA
+208,211,Oregon
+209,212,Penn State
+210,213,Texas
+211,214,Duke
+212,215,TCU
+213,216,Duke
+214,217,Dixie State (UT) UNLV
+215,218,Western Kentucky
+216,219,Indiana State University Saint Augustine's College
+217,220,Saint Joseph's
+218,221,Nebraska
+219,222,NC State
+220,223,California State University Los Angeles
+221,225,Illinois
+222,226,Northeastern University
+223,228,Kentucky
+224,229,Minnesota College of Southern Idaho Hawaii
+225,230,Auburn
+226,231,St. John's
+227,232,UCLA
+228,234,UNC
+229,235,Northeastern University
+230,236,Texas-El Paso
+231,237,Providence
+232,238,UCLA
+233,239,Florida State
+234,240,Tennessee State
+235,241,Oregon
+236,242,University of Akron
+237,243,Tennessee State
+238,244,Washington State
+239,245,Northwestern
+240,246,Notre Dame
+241,247,Penn State
+242,248,Duquesne
+243,249,Duquesne
+244,250,Seton Hall
+245,251,Kansas State
+246,252,West Virginia Tech
+247,253,Duke
+248,254,Memphis
+249,255,Boston College
+250,256,Oregon State
+251,257,Georgia Tech
+252,258,University of the Pacific Georgia Tech
+253,259,Miami (FL)
+254,260,NC State
+255,261,Oregon State
+256,262,Memphis
+257,263,UNC Charlotte
+258,264,Temple
+259,265,LSU
+260,266,Detroit Mercy
+261,267,College of Southern Idaho Georgia
+262,268,Western Kentucky
+263,269,Michigan
+264,271,Kentucky State University
+265,272,Memphis Eastern Michigan
+266,273,Ohio State
+267,275,Arizona State
+268,276,Texas Tech
+269,277,Duke
+270,278,George Washington Minnesota Ohio State
+271,279,Rutgers University
+272,280,Northern Illinois Illinois
+273,281,Notre Dame
+274,282,Cincinnati
+275,284,Memphis TCU
+276,285,Peirce College Temple
+277,286,Ohio University
+278,287,Maryland
+279,288,Arizona
+280,289,College of Idaho Seattle University
+281,290,Tennessee
+282,291,Washington State
+283,293,Old Dominion
+284,295,West Virginia
+285,296,Florida
+286,297,Norfolk State
+287,298,Louisville
+288,299,Kentucky
+289,300,SMU
+290,301,Midland College University of North Dakota
+291,302,Texas A&M
+292,303,Florida State
+293,304,Kansas State
+294,305,Prairie View A&M University
+295,307,Yakima Valley Community College
+296,308,Columbia Basin College Denver
+297,309,South Plains College Arkansas
+298,310,Penn
+299,311,Arizona State
+300,312,Duquesne
+301,313,Stanford
+302,314,Memphis
+303,315,Virginia
+304,316,Long Island University
+305,317,Minnesota
+306,318,Bradley
+307,320,Michigan State
+308,321,Drake University
+309,322,Oregon
+310,323,Boston University Florida International University
+311,324,Boston College
+312,325,NC State
+313,326,Indiana
+314,327,Saint Joseph's
+315,328,Illinois
+316,329,Jacksonville University
+317,332,Georgetown Towson University
+318,333,Creighton
+319,334,Oregon State
+320,335,UNLV
+321,336,Notre Dame
+322,337,Arizona State
+323,338,Pitt
+324,339,Winston-Salem State
+325,340,Green Bay
+326,341,Kentucky
+327,342,Alabama
+328,343,Oakland
+329,344,Indiana
+330,345,Providence
+331,346,Marquette
+332,347,Utah
+333,348,Weber State
+334,350,UCLA
+335,351,Oregon State San Jose State
+336,352,St. John's
+337,355,California University of Pennslyvania
+338,356,Georgia Tech
+339,357,Arkansas
+340,358,Villanova
+341,359,Colorado
+342,360,New Mexico State
+343,361,UConn
+344,362,Bowling Green
+345,363,Assumption University
+346,364,UCLA
+347,365,Arizona
+348,366,NC State
+349,368,Valparaiso
+350,369,Penn
+351,370,Duquesne
+352,371,Colorado
+353,372,Syracuse
+354,373,North Carolina A&T
+355,374,Pitt UNLV
+356,375,California
+357,376,Kentucky
+358,377,Indiana State University
+359,378,Houston
+360,379,Washington State
+361,384,Indiana
+362,385,Arkansas
+363,386,Kansas
+364,387,UNC
+365,388,Saint Joseph's
+366,389,Memphis Kansas
+367,390,South Dakota State
+368,391,Kansas State
+369,392,Monmouth University
+370,393,Wisconsin
+371,394,Dartmouth College
+372,395,Temple
+373,396,Pitt
+374,397,Maryland
+375,398,LSU
+376,399,Iowa State
+377,400,Holy Cross
+378,401,Virginia Texas
+379,402,LSU
+380,404,Midland College Oklahoma
+381,405,Kentucky
+382,406,Southern Miss Montana State
+383,407,Arizona
+384,408,USC
+385,409,Temple
+386,410,Clemson
+387,411,Cincinnati
+388,412,Pitt
+389,413,Marquette
+390,414,Oregon State
+391,415,Temple
+392,416,Cincinnati
+393,417,Dayton
+394,418,Syracuse
+395,419,Tennessee
+396,420,Kentucky
+397,423,Wake Forest
+398,424,Utah
+399,425,Arizona Tennessee Auburn University at Montgomery
+400,426,Oregon
+401,427,University of Bridgeport
+402,428,UCLA
+403,429,Duke
+404,430,Georgetown
+405,432,Weber State
+406,433,Minnesota
+407,434,Illinois
+408,435,UCLA
+409,436,Louisville
+410,437,Minnesota
+411,438,Tennessee
+412,439,UNLV
+413,441,Cincinnati
+414,442,Saint Louis
+415,443,Florida
+416,444,Cheyney (PA)
+417,445,Kentucky
+418,446,Missouri
+419,447,Clemson
+420,448,UConn
+421,449,Iowa Western Community College Clarinda Campus Idaho State University
+422,450,Penn State
+423,451,Maryland
+424,452,Kansas State
+425,453,Duke
+426,454,Stanford
+427,455,Muhlenberg College
+428,457,Temple
+429,458,Notre Dame Denver
+430,459,Georgia Tech
+431,460,New Mexico State
+432,461,Kentucky
+433,462,Vincennes University Maryland
+434,463,South Carolina State South Carolina
+435,464,New Mexico Junior College Northwest College Oregon
+436,465,UConn
+437,466,Georgetown
+438,467,San Francisco
+439,468,Western Michigan
+440,469,Old Dominion
+441,471,Cal State Fullerton
+442,472,Iowa
+443,473,Grambling State University
+444,474,Oklahoma
+445,475,Kentucky
+446,476,Tennessee
+447,477,Providence Penn
+448,478,Boston College
+449,479,Wichita State
+450,480,Colorado
+451,481,Detroit Mercy
+452,482,Oregon State
+453,483,Boston University
+454,484,Eastern Michigan
+455,485,St. John's
+456,486,San Francisco
+457,487,UCLA
+458,488,Tulsa
+459,489,Iowa State
+460,490,Ohio State
+461,491,Villanova
+462,492,Texas Southern
+463,493,Texas
+464,494,Tennessee State
+465,495,Princeton
+466,496,Wyoming
+467,497,UNC
+468,498,Northern Illinois
+469,499,Oklahoma State
+470,500,Kentucky Villanova
+471,501,BYU
+472,502,UNC
+473,504,Providence
+474,505,Xavier
+475,506,Arizona
+476,507,Maryland
+477,508,Duke
+478,509,Oregon
+479,510,Ohio State
+480,511,Kentucky Michigan State
+481,512,SMU
+482,513,Elon University
+483,514,College of Charleston
+484,515,NYU
+485,516,Stanford
+486,517,Colgate
+487,518,Kansas
+488,519,Michigan
+489,520,Dayton Kentucky
+490,521,Wyoming
+491,522,St. Bonaventure
+492,523,UNC
+493,524,Villanova
+494,525,Minnesota
+495,526,Florida
+496,527,Auburn
+497,528,Minnesota
+498,529,University of Arkansas-Fort Smith Arkansas
+499,530,Arkansas
+500,532,LSU
+501,533,Penn State
+502,534,Louisville
+503,535,Kansas
+504,536,West Virginia Baylor
+505,537,Villanova
+506,538,Michigan State
+507,539,University of Charleston
+508,540,UConn
+509,541,Dartmouth College
+510,542,Kentucky
+511,543,Toledo
+512,544,Syracuse
+513,545,Virginia Tech
+514,546,Johnson C. Smith University
+515,547,Michigan
+516,548,South Carolina
+517,549,Texas A&M
+518,550,St. Bonaventure Penn State Iowa State
+519,551,Washington
+520,552,Valparaiso
+521,553,West Virginia Wesleyan College
+522,554,Virginia
+523,555,Notre Dame
+524,556,West Texas A&M University
+525,557,Temple
+526,558,Oregon
+527,559,Houston
+528,560,Oregon
+529,561,Kentucky Washington
+530,562,Louisiana
+531,563,Providence
+532,564,La Salle
+533,565,TCU University of California Irvine
+534,566,Morehead State University Auburn
+535,567,DePaul
+536,568,Stanford
+537,569,Miami University
+538,570,Cal State Fullerton
+539,571,Miami (FL)
+540,572,Saint Joseph's
+541,573,Wake Forest Michigan
+542,574,NC State
+543,575,Syracuse
+544,576,Humboldt State University
+545,577,Jacksonville University
+546,578,Illinois
+547,579,Xavier
+548,580,Texas-San Antonio
+549,581,Indian Hills Community College
+550,582,Southeastern Iowa Community College West Burlington Campus Iowa
+551,583,Wayne State University
+552,584,Pepperdine
+553,585,Texas
+554,586,University of Evansville
+555,587,Oregon Missouri
+556,588,California
+557,589,Missouri
+558,590,Okaloosa-Walton Community College
+559,591,Baylor
+560,592,Missouri
+561,594,UNC
+562,595,Wyoming
+563,596,UNLV
+564,597,NC State
+565,598,Murray State
+566,599,Oklahoma State
+567,600,George Washington
+568,601,UCLA
+569,602,Slippery Rock University of Pennsylvania
+570,603,Louisiana Tech
+571,604,Houston New Mexico State
+572,605,Mississippi State Idaho
+573,606,Mississippi State
+574,607,Dayton
+575,608,Kansas
+576,609,Michigan State
+577,611,SMU
+578,612,McNeese State University
+579,613,Arkansas
+580,614,Oregon
+581,616,DePaul
+582,617,Marquette
+583,618,Manhattan University
+584,619,Villanova
+585,620,Temple
+586,622,Arizona
+587,623,Elon University BYU
+588,624,DePaul
+589,625,La Salle
+590,627,Seton Hall
+591,628,Indiana
+592,629,San Francisco
+593,630,Texas State University
+594,631,Manhattan University
+595,632,Northeast Mississippi Community College Murray State
+596,633,Tennessee State
+597,634,UNC
+598,635,Jackson State University
+599,636,Clemson
+600,637,Indiana
+601,638,Wake Forest
+602,639,Arizona
+603,640,Columbia University
+604,641,Arizona
+605,642,Michigan
+606,643,Creighton
+607,644,Colorado Iowa
+608,645,UNC
+609,646,Texas-El Paso Riverside Community College Utah State University
+610,647,Cal State Fullerton
+611,648,NYU
+612,649,Michigan
+613,650,UNC
+614,651,Utah
+615,652,Auburn
+616,653,Michigan
+617,654,Louisville
+618,655,Colorado
+619,656,Memphis
+620,657,Minnesota
+621,658,NC State
+622,659,Illinois
+623,660,Saint Louis
+624,661,Maryland
+625,662,Northwestern
+626,663,UConn
+627,664,Tennessee
+628,665,Virginia
+629,666,Lon Morris College Kentucky
+630,667,Marquette Iowa State
+631,668,Michigan State
+632,669,Minnesota
+633,670,Iona College
+634,671,University of Evansville
+635,672,Northeastern Junior College Denver
+636,673,Pikeville College
+637,674,Niagara University
+638,675,UConn
+639,676,Stanford
+640,678,Baylor
+641,679,Tyler Junior College Marquette
+642,680,Florida State
+643,681,Memphis
+644,682,UCLA
+645,683,La Salle
+646,684,Marquette
+647,686,Virginia Vanderbilt
+648,688,Arizona Georgia Tech
+649,689,Temple
+650,690,Syracuse
+651,691,Seton Hall
+652,692,Long Island University
+653,694,Bradley
+654,696,UNC Wilmington
+655,697,Alabama
+656,698,San Diego State
+657,699,Marquette Oakland
+658,700,St. John's
+659,701,Florida
+660,703,SMU Lamar
+661,704,Georgia Tech
+662,705,Arizona State
+663,706,Georgia
+664,707,City College of San Francisco
+665,708,Penn
+666,709,Michigan
+667,710,Rockhurst University
+668,711,Indiana Kansas
+669,712,Rhode Island
+670,713,Long Beach City College USC
+671,714,Dayton
+672,715,Texas
+673,716,UMass
+674,718,Clemson
+675,719,Ohio State
+676,720,Murray State
+677,722,Princeton
+678,723,La Salle
+679,725,Louisville Texas-El Paso
+680,726,South Carolina State
+681,727,Purdue
+682,728,Auburn
+683,729,Duke
+684,730,DePaul
+685,731,California
+686,732,Northwestern California
+687,733,University of Maine Virginia
+688,734,Otterbein College
+689,735,Oregon
+690,736,Utah
+691,737,Minnesota
+692,738,Bradley
+693,739,Memphis
+694,740,Texas A&M University-Commerce
+695,741,Wichita State
+696,742,Notre Dame
+697,743,Southern Illinois
+698,744,Texas Tech
+699,745,NC State
+700,746,Guilford College
+701,747,Western Kentucky
+702,748,Boston College
+703,749,Pitt
+704,750,Vanderbilt Missouri
+705,751,Purdue
+706,752,Notre Dame
+707,753,Virginia Tech
+708,754,Hawaii
+709,755,Indiana
+710,756,South Carolina Providence
+711,757,Mount St. Mary's University
+712,758,St. Bonaventure
+713,759,LSU
+714,760,Texas A&M University-Commerce
+715,761,West Virginia
+716,762,LSU
+717,763,Hawaii St. John's
+718,764,Virginia Military Institute
+719,765,UNC
+720,766,Duke
+721,767,Syracuse
+722,768,Ohio State Marquette
+723,769,San Francisco
+724,770,Oregon State
+725,771,Texas A&M
+726,772,Bowling Green
+727,773,San Bernardino Valley College University of California Riverside
+728,774,Florida State
+729,776,UConn
+730,777,Michigan Florida
+731,778,Hardin-Simmons University
+732,779,University of South Alabama
+733,780,Notre Dame
+734,781,University of South Alabama Iowa State
+735,782,Auburn
+736,783,Kentucky
+737,784,Cincinnati
+738,785,Temple
+739,786,George Washington
+740,787,Texas Southern
+741,788,Old Dominion
+742,790,Cal State Fullerton
+743,791,Villanova
+744,793,Xavier
+745,794,Kansas
+746,795,UNC
+747,796,Kansas
+748,797,Trinidad State Junior College Utah
+749,798,Utah
+750,799,St. John's
+751,800,Pitt
+752,801,Gonzaga
+753,802,Tennessee
+754,804,DePaul
+755,805,Houston
+756,806,LSU
+757,807,Kentucky
+758,808,Western Kentucky
+759,809,Wake Forest
+760,810,Fordham
+761,811,NC State
+762,812,College of Charleston
+763,813,Indiana
+764,814,San Diego State Arizona State
+765,815,West Texas A&M University
+766,816,California
+767,817,Montana
+768,818,Missouri
+769,819,UNC
+770,820,Stanford
+771,821,Wake Forest
+772,822,Boise State
+773,823,Florida
+774,824,Canisius
+775,826,Marquette
+776,827,Washington
+777,828,Fordham
+778,829,Toledo
+779,830,Grambling State University
+780,831,Minnesota
+781,832,Pepperdine
+782,833,Michigan State
+783,834,Temple
+784,835,Syracuse
+785,836,Xavier
+786,837,Arizona State
+787,838,California
+788,839,Rhode Island
+789,840,Georgetown
+790,841,Oklahoma State Ole Miss Memphis
+791,843,Minnesota
+792,844,Ole Miss
+793,845,Eastern Kentucky University
+794,846,Louisville
+795,847,Cincinnati
+796,848,Belmont
+797,849,UCLA
+798,850,Irvine Valley College Dixie State (UT) UNLV
+799,851,San Jose State Gonzaga
+800,852,Arkansas
+801,853,Tulsa Missouri
+802,854,Colorado State
+803,856,Michigan
+804,857,Georgia
+805,858,Georgia
+806,859,Hofstra
+807,860,Iona College Florida
+808,861,Ohio State
+809,862,Michigan State
+810,863,Ohio Wesleyan University
+811,864,Campbell
+812,865,SE Missouri State
+813,866,Colorado Colorado State
+814,867,Xavier University of Louisiana
+815,868,UConn
+816,869,Rice University
+817,870,Central Connecticut State University
+818,871,Alabama
+819,872,Wisconsin
+820,873,Kentucky
+821,874,Florida State
+822,875,Minnesota
+823,876,Minnesota
+824,877,Oregon Eastern Michigan
+825,878,Boise State
+826,879,Cleveland State University
+827,880,Minnesota Maryland
+828,881,Syracuse
+829,882,Houston Baptist University
+830,883,Louisville
+831,884,Kansas State
+832,885,Virginia Tech
+833,886,USC
+834,887,Indiana Georgia Tech
+835,888,St. Thomas University
+836,889,Washington State
+837,890,Illinois State
+838,891,Florida State
+839,892,Stanford
+840,893,Stanford
+841,894,New Mexico State
+842,895,Wake Forest
+843,896,Temple
+844,897,Kansas
+845,898,Saint Louis
+846,899,Gonzaga
+847,900,BYU
+848,901,UCLA
+849,902,Kansas
+850,903,Bloomsburg University of Pennsylvania
+851,904,Notre Dame
+852,905,Rhode Island UNC Charlotte
+853,906,New Mexico State
+854,907,Arizona
+855,908,Virginia Tech
+856,909,Oklahoma State
+857,910,Grambling State University
+858,911,DePaul
+859,912,Kansas State
+860,913,BYU
+861,914,Washington State
+862,915,Kentucky
+863,916,Ohio State
+864,917,Fordham
+865,918,Providence
+866,919,Notre Dame
+867,920,Kentucky
+868,921,Oregon State
+869,922,Seton Hall
+870,923,Washington
+871,924,Arizona
+872,925,Utah State University
+873,926,Wisconsin
+874,927,Illinois
+875,928,Ohio State
+876,929,University of Portland
+877,930,Idaho State University
+878,931,Kansas
+879,932,St. John's
+880,933,Duke
+881,934,Iowa
+882,935,Dayton
+883,936,Saint Mary's
+884,937,University of South Carolina Aiken Mars Hill University Winston-Salem State
+885,938,Indiana
+886,939,Winthrop University
+887,940,Notre Dame
+888,941,Duquesne
+889,942,USC
+890,943,Howard College Tulsa Colorado
+891,944,New Mexico
+892,945,Auburn
+893,946,New Orleans
+894,947,Marquette
+895,948,Colorado
+896,949,Rutgers University
+897,950,Georgia State University
+898,951,DePaul
+899,952,NC State
+900,953,University of Central Oklahoma
+901,954,Georgetown
+902,956,DePaul
+903,957,Niagara University
+904,958,Michigan State
+905,959,Providence
+906,960,Wyoming
+907,961,Cal State Long Beach
+908,962,California
+909,964,Wichita State Arkansas
+910,965,Oregon State
+911,966,Saint Joseph's
+912,967,Mississippi State Southern Miss
+913,968,Seton Hall Houston
+914,969,Kentucky
+915,970,Holy Cross
+916,971,Tennessee State
+917,972,Willamette University Eastern Washington Washington State
+918,973,Florida State
+919,974,Villanova San Francisco
+920,975,Kentucky
+921,976,Louisville
+922,977,California
+923,978,USC Upstate
+924,979,Marquette
+925,980,St. Bonaventure
+926,981,Louisiana Tech
+927,982,Michigan
+928,983,Kentucky
+929,984,Indiana Xavier
+930,986,Colorado
+931,987,Boston College
+932,988,Iowa State
+933,989,Penn State
+934,990,New Mexico State
+935,991,California
+936,992,Texas A&M
+937,993,Georgia Tech
+938,994,Western Michigan
+939,995,Tennessee
+940,996,UNC
+941,997,Tennessee
+942,998,Providence
+943,999,University of Maine
+944,1000,San Francisco
+945,1001,Purdue
+946,1002,Penn
+947,1003,Virginia
+948,1004,Cerritos College BYU Westminster College of Utah
+949,1005,Duke
+950,1006,Kentucky Wesleyan College
+951,1007,Marquette
+952,1008,Dayton
+953,1009,St. Gregory's University Tulsa
+954,1011,Texas Tech
+955,1012,Cincinnati
+956,1013,Cincinnati
+957,1014,DePaul
+958,1015,Pitt
+959,1016,UNC
+960,1017,Oklahoma State
+961,1018,Villanova
+962,1019,Murray State
+963,1020,Oregon State
+964,1021,Temple
+965,1023,Rhode Island
+966,1024,Robert Morris University (PA) Detroit Mercy
+967,1025,Boston College
+968,1026,Notre Dame
+969,1027,Virginia Tech
+970,1029,Oklahoma State
+971,1030,Georgia Southern University
+972,1031,Liberty Duke
+973,1032,Davidson
+974,1034,Marshall
+975,1035,Colorado
+976,1036,New Mexico State
+977,1038,Duquesne
+978,1039,San Francisco
+979,1040,Seton Hall
+980,1041,Stanford
+981,1042,Mississippi State
+982,1043,Kentucky
+983,1044,Norfolk State
+984,1045,Bowling Green
+985,1047,Kentucky
+986,1048,Mount San Antonio College
+987,1049,Auburn
+988,1050,Southeastern Iowa Community College West Burlington Campus New Mexico
+989,1051,VCU
+990,1053,Oregon
+991,1054,Notre Dame
+992,1055,Oklahoma State
+993,1056,Denver
+994,1057,Michigan
+995,1058,George Washington
+996,1059,VCU
+997,1060,UAB University of Delaware
+998,1061,Cypress College Indiana State University San Jose State
+999,1062,Bowling Green
+1000,1064,UNC
+1001,1065,Albany State University
+1002,1067,Alabama
+1003,1068,Seton Hall
+1004,1069,BYU
+1005,1070,Kentucky
+1006,1071,Texas-El Paso
+1007,1072,Oklahoma Baptist University
+1008,1073,UCLA
+1009,1074,Kansas Arizona
+1010,1075,Notre Dame
+1011,1076,Weber State
+1012,1077,Maryland
+1013,1078,Duke
+1014,1079,Vanderbilt
+1015,1080,Wake Forest
+1016,1081,Clemson
+1017,1082,Michigan State
+1018,1083,Houston
+1019,1084,UNC
+1020,1085,Delaware State University
+1021,1086,LSU
+1022,1087,Florida State
+1023,1088,UNC
+1024,1089,Colorado
+1025,1090,Dayton
+1026,1091,Wisconsin
+1027,1092,Wyoming
+1028,1093,NC Central
+1029,1094,Old Dominion
+1030,1095,Howard College Texas Tech
+1031,1096,St. John's
+1032,1097,Duquesne
+1033,1098,Virginia Union University
+1034,1099,Maryland
+1035,1100,Tennessee State
+1036,1101,Michigan State
+1037,1102,Cincinnati
+1038,1103,St. John's
+1039,1104,Iowa
+1040,1105,Washington State
+1041,1106,Ole Miss
+1042,1107,Virginia Union University
+1043,1108,Texas A&M
+1044,1109,Texas A&M
+1045,1110,UNC
+1046,1111,North Carolina A&T
+1047,1112,University of North Texas
+1048,1113,Alabama
+1049,1114,Duke
+1050,1116,Duke
+1051,1117,Northern Illinois
+1052,1118,Michigan State
+1053,1119,Midwestern State University
+1054,1120,Illinois
+1055,1121,Florida State
+1056,1122,Arkansas
+1057,1123,Gonzaga
+1058,1124,UCLA
+1059,1125,LSU
+1060,1127,Saint Joseph's
+1061,1128,Detroit Mercy
+1062,1129,Florida
+1063,1130,Duke
+1064,1131,Wisconsin-River Falls
+1065,1132,St. John's
+1066,1133,USC
+1067,1134,Clark Atlanta University
+1068,1135,Utah
+1069,1137,USC
+1070,1138,Saint Louis Saint Mary of the Plains College
+1071,1139,Indiana
+1072,1140,Seton Hall
+1073,1141,Columbia University
+1074,1142,USC UNLV Iowa State
+1075,1143,Wisconsin
+1076,1144,NC State
+1077,1145,Virginia Tech
+1078,1146,Maryland Arizona
+1079,1148,Seton Hall
+1080,1149,Kentucky
+1081,1150,Saint Mary's
+1082,1151,Wyoming
+1083,1152,Arizona
+1084,1153,University of the Pacific
+1085,1154,King's College
+1086,1155,Duke
+1087,1156,Duke
+1088,1157,Lawrence Technological University
+1089,1158,Wichita State Texas A&M
+1090,1159,Boise State Toledo Baylor
+1091,1160,Washington
+1092,1161,Duke
+1093,1162,Seattle University
+1094,1163,Georgetown
+1095,1164,University of Rochester
+1096,1165,George Washington
+1097,1166,Providence
+1098,1167,Villanova
+1099,1168,Michigan
+1100,1169,Virginia
+1101,1170,Eastern Michigan
+1102,1171,Kansas
+1103,1172,Kentucky
+1104,1175,Pepperdine
+1105,1176,Miami (FL)
+1106,1177,Kansas
+1107,1178,Washington Gonzaga
+1108,1179,Tyler Junior College Idaho
+1109,1180,University of Charleston
+1110,1181,Arizona
+1111,1182,Cochise Community College Boise State
+1112,1183,Cincinnati
+1113,1184,NC State
+1114,1185,Michigan Kansas
+1115,1186,Arkansas State University
+1116,1187,Marquette
+1117,1188,Louisville
+1118,1190,Cincinnati
+1119,1191,San Jose State
+1120,1192,Michigan
+1121,1193,Eastern Michigan
+1122,1194,Florida State
+1123,1195,Valparaiso
+1124,1196,Kentucky
+1125,1197,UNC
+1126,1198,UNC Charlotte
+1127,1199,Voorhees College
+1128,1200,Pepperdine
+1129,1201,New Mexico Highlands University
+1130,1202,Colorado
+1131,1203,Arizona State
+1132,1204,BYU
+1133,1206,Purdue
+1134,1207,St. Bonaventure
+1135,1209,Maryland
+1136,1210,Truman State University
+1137,1211,Utah
+1138,1212,NYU
+1139,1213,Colorado
+1140,1214,Washington State
+1141,1216,Ohio State
+1142,1217,Providence
+1143,1218,Muhlenberg College
+1144,1219,Missouri
+1145,1221,Georgia
+1146,1222,Memphis
+1147,1223,Tennessee State
+1148,1224,Oregon
+1149,1225,Arizona State
+1150,1226,Illinois
+1151,1227,Oregon Houston
+1152,1228,Kansas
+1153,1229,Rutgers University
+1154,1230,Illinois
+1155,1231,Kansas
+1156,1232,Alabama
+1157,1233,Syracuse
+1158,1234,Auburn Florida State
+1159,1235,Memphis
+1160,1237,St. John's
+1161,1238,LeMoyne-Owen College
+1162,1239,Virginia Tech
+1163,1240,Marquette
+1164,1241,Indiana
+1165,1242,Rhode Island
+1166,1243,Belmont Abbey College
+1167,1244,Loyola Chicago
+1168,1245,South Carolina
+1169,1246,South Carolina
+1170,1249,Wichita State Kansas
+1171,1251,Valparaiso
+1172,1252,Gardner-Webb University
+1173,1253,Missouri
+1174,1254,UNC UCLA
+1175,1255,Houston
+1176,1256,University of Montevallo
+1177,1257,Boston College
+1178,1259,UCLA
+1179,1260,UConn
+1180,1261,Syracuse
+1181,1262,Oregon
+1182,1263,Saint Mary's
+1183,1264,St. John's
+1184,1265,Eastern Illinois University
+1185,1266,Washington
+1186,1267,Yale
+1187,1268,Boston College
+1188,1269,Detroit Mercy
+1189,1270,Tulane
+1190,1271,Colgate
+1191,1272,Duke
+1192,1273,Wisconsin
+1193,1274,Providence
+1194,1275,Seton Hall
+1195,1276,McNeese State University
+1196,1277,Northeastern State University
+1197,1278,Oklahoma State
+1198,1279,Missouri-Kansas City
+1199,1280,William & Mary
+1200,1281,Wake Forest
+1201,1282,South Carolina
+1202,1283,Duke
+1203,1284,Providence
+1204,1285,Utah State University
+1205,1286,Virginia
+1206,1287,Alabama
+1207,1288,LSU
+1208,1289,Texas
+1209,1290,Memphis
+1210,1291,Georgetown
+1211,1292,Duquesne
+1212,1293,Colorado State
+1213,1294,BYU
+1214,1295,La Salle
+1215,1296,Duke
+1216,1297,Loyola Chicago
+1217,1298,Cal State Long Beach
+1218,1299,DePaul
+1219,1300,UConn
+1220,1301,New Orleans
+1221,1302,BYU
+1222,1303,Iowa
+1223,1304,Loyola Chicago
+1224,1305,Wichita State
+1225,1307,Cincinnati LSU
+1226,1308,Cypress College UCLA
+1227,1309,Louisville
+1228,1310,West Virginia
+1229,1311,Detroit Mercy
+1230,1312,Missouri
+1231,1314,Louisiana
+1232,1315,Trinity Valley CC Wichita State
+1233,1316,Virginia Tech
+1234,1317,Arkansas State University Ole Miss
+1235,1318,Illinois
+1236,1319,Virginia
+1237,1320,Purdue
+1238,1321,LeMoyne-Owen College
+1239,1322,Baylor
+1240,1323,Tennessee State
+1241,1324,Purdue
+1242,1325,UCLA
+1243,1326,Georgia
+1244,1327,Wright State University
+1245,1328,East Carolina University
+1246,1329,Purdue
+1247,1330,Central Connecticut State University
+1248,1331,Florida State
+1249,1332,Cleveland State University
+1250,1333,Washington
+1251,1334,Indiana
+1252,1335,West Virginia Syracuse
+1253,1336,Kent State University
+1254,1337,Kentucky
+1255,1338,Pepperdine
+1256,1339,DePaul
+1257,1340,Cleveland State University Arizona State
+1258,1341,Little Rock
+1259,1342,Purdue
+1260,1343,Providence
+1261,1344,Oklahoma State
+1262,1345,Purdue
+1263,1346,Odessa College Washington State
+1264,1347,SE Missouri State
+1265,1348,Boston College
+1266,1349,Maryland
+1267,1350,UConn
+1268,1351,Hamline University
+1269,1352,American International College
+1270,1353,Washington State
+1271,1354,West Texas A&M University
+1272,1355,Marquette
+1273,1356,UNC
+1274,1357,Arizona
+1275,1358,Arizona
+1276,1359,Marquette
+1277,1360,Niagara University
+1278,1361,Tennessee
+1279,1362,Morehouse College
+1280,1363,San Francisco
+1281,1364,Florida SouthWestern State College Alabama
+1282,1365,Notre Dame
+1283,1366,Kentucky Syracuse
+1284,1367,St. John's
+1285,1369,Louisville
+1286,1370,Maryland
+1287,1371,California
+1288,1372,UNC
+1289,1373,Fresno State
+1290,1374,Kansas
+1291,1375,Miami University
+1292,1376,Texas Tech
+1293,1377,University of Akron
+1294,1378,University of California Irvine
+1295,1379,Minnesota Wyoming
+1296,1380,Virginia Union University
+1297,1381,South Carolina
+1298,1382,Rhode Island
+1299,1383,South Carolina
+1300,1384,Missouri
+1301,1385,Texas-El Paso
+1302,1386,Wisconsin
+1303,1387,Cal State Long Beach
+1304,1388,Syracuse
+1305,1389,Norfolk State
+1306,1391,Niagara University
+1307,1392,UCLA
+1308,1393,UMass
+1309,1394,Northwestern
+1310,1395,Kansas
+1311,1398,Wichita State
+1312,1399,Oregon State
+1313,1400,Boston College
+1314,1401,Butler
+1315,1402,Indiana
+1316,1403,USC UNLV
+1317,1404,Cincinnati
+1318,1405,Oklahoma State
+1319,1406,Western Kentucky
+1320,1407,Wichita State Texas
+1321,1408,Kansas State
+1322,1409,Iowa
+1323,1410,Memphis
+1324,1411,Princeton
+1325,1412,Duke
+1326,1413,Georgetown
+1327,1414,Indiana Georgetown
+1328,1417,Vanderbilt
+1329,1418,Rhode Island
+1330,1419,Pitt
+1331,1420,Palomar College BYU
+1332,1421,Central Florida
+1333,1422,City College of New York
+1334,1423,Morehead State University
+1335,1424,Indiana
+1336,1425,UCLA
+1337,1426,USC
+1338,1427,Alabama
+1339,1428,San Francisco
+1340,1429,San Jose State Nebraska
+1341,1430,Notre Dame
+1342,1432,Georgia Tech
+1343,1433,Nevada
+1344,1434,Oklahoma
+1345,1435,Florida State
+1346,1436,Santa Clara
+1347,1437,Vanderbilt
+1348,1438,Michigan State
+1349,1439,DePaul
+1350,1440,Kentucky
+1351,1441,Texas-El Paso
+1352,1442,Oakland
+1353,1444,Arizona State
+1354,1445,Fresno State
+1355,1446,Long Island University
+1356,1447,UNC
+1357,1448,Northwestern
+1358,1449,Manhattan University
+1359,1450,Missouri Detroit Mercy
+1360,1453,Maryland
+1361,1454,San Francisco
+1362,1455,Michigan State
+1363,1456,Houston
+1364,1457,Georgia Tech
+1365,1458,Indiana
+1366,1459,Utah
+1367,1460,Saint Louis
+1368,1461,Duke
+1369,1463,Brandywine Junior College La Salle
+1370,1464,UCLA
+1371,1465,Stanford
+1372,1466,Tennessee Technological University
+1373,1467,Duke
+1374,1468,Cheyney (PA)
+1375,1469,Memphis
+1376,1470,Dayton
+1377,1471,Wisconsin
+1378,1472,St. John's
+1379,1473,Florida
+1380,1474,UNC Wilmington
+1381,1475,Little Rock
+1382,1476,Trinidad State Junior College Colorado State
+1383,1477,Kentucky
+1384,1478,South Florida Saint Mary's
+1385,1479,Seton Hall
+1386,1480,Fordham
+1387,1481,Iowa State
+1388,1482,Duke
+1389,1483,Presbyterian College Baylor
+1390,1484,NYU
+1391,1485,Arizona
+1392,1486,Niagara University
+1393,1487,Saint Joseph's
+1394,1488,Georgia
+1395,1489,Rutgers University Manhattan University
+1396,1490,Notre Dame
+1397,1492,Georgetown
+1398,1493,Syracuse
+1399,1494,Washington State San Diego State
+1400,1495,Kentucky
+1401,1496,Canisius
+1402,1497,Holy Cross
+1403,1498,Washington State
+1404,1499,University of Maryland Eastern Shore
+1405,1501,Cornell
+1406,1502,Michigan State
+1407,1503,Virginia UMass
+1408,1504,Wisconsin
+1409,1505,Mississippi Valley State University
+1410,1506,Houston
+1411,1507,Purdue
+1412,1508,Villanova
+1413,1509,New Mexico UC Santa Barbara
+1414,1510,University of Maryland Eastern Shore
+1415,1511,Saint Mary's
+1416,1512,UNC
+1417,1513,Clemson
+1418,1514,University of Illinois at Chicago
+1419,1515,Texas
+1420,1516,NYU
+1421,1517,Grand Canyon University
+1422,1518,Florida State
+1423,1519,UNC
+1424,1520,Arkansas
+1425,1521,Cincinnati
+1426,1522,Miami University
+1427,1523,UCLA Texas-El Paso
+1428,1524,Texas State University
+1429,1525,UConn
+1430,1527,UCLA
+1431,1530,La Salle
+1432,1531,Saint Francis University
+1433,1532,Missouri
+1434,1533,California Fresno State
+1435,1534,Kentucky
+1436,1535,Jacksonville University
+1437,1536,South Carolina
+1438,1537,UNC
+1439,1538,Villanova
+1440,1539,Colgate
+1441,1540,Gonzaga
+1442,1541,San Jacinto College Allegany College of Maryland Maryland
+1443,1542,Western Kentucky
+1444,1543,Brooklyn College
+1445,1544,Purdue
+1446,1545,San Diego State
+1447,1546,Washington State
+1448,1547,Kansas
+1449,1548,Tulane
+1450,1549,Florida
+1451,1550,Penn State
+1452,1551,Southern Illinois
+1453,1552,Grambling State University
+1454,1553,Pepperdine
+1455,1554,BYU
+1456,1555,Guilford College
+1457,1556,Kentucky
+1458,1558,Illinois
+1459,1559,University of Akron
+1460,1560,Oregon State
+1461,1561,Vanderbilt
+1462,1562,Valparaiso DePaul
+1463,1563,Vanderbilt
+1464,1564,Long Island University
+1465,1565,California
+1466,1566,Colorado
+1467,1567,Hamline University
+1468,1568,Arizona
+1469,1569,BYU
+1470,1570,Long Island University
+1471,1571,LSU Florida
+1472,1573,Millsaps College Murray State
+1473,1574,Bethune-Cookman College
+1474,1575,Fresno State
+1475,1576,NC State
+1476,1577,Vincennes University Pepperdine
+1477,1578,Washington
+1478,1579,Indiana Ohio State
+1479,1580,Bucknell Penn State
+1480,1581,Michigan State
+1481,1582,Kansas
+1482,1583,Syracuse
+1483,1584,Kentucky
+1484,1585,UCLA
+1485,1586,Arkansas
+1486,1587,Fairfield
+1487,1588,DePaul
+1488,1589,Texas A&M University-Commerce
+1489,1590,UCLA Loyola Marymount
+1490,1591,Louisville
+1491,1592,LeMoyne-Owen College
+1492,1593,Georgia
+1493,1594,Elizabeth City State University
+1494,1595,Creighton
+1495,1596,Truman State University
+1496,1599,Saint Joseph's
+1497,1600,Oregon State
+1498,1601,Iowa
+1499,1602,Duke
+1500,1604,Providence
+1501,1606,Louisville
+1502,1607,Colorado
+1503,1608,DePauw University
+1504,1609,Utah
+1505,1610,South Plains College Georgetown Little Rock
+1506,1611,Missouri
+1507,1612,Utah
+1508,1613,St. John's
+1509,1614,George Washington
+1510,1615,Vanderbilt
+1511,1616,DePaul
+1512,1617,Missouri State
+1513,1618,Hibbing Community College Minnesota
+1514,1619,University of Portland
+1515,1620,Memphis
+1516,1621,Wyoming
+1517,1623,Santa Clara
+1518,1624,DePaul
+1519,1625,Austin Peay State University Oral Roberts
+1520,1626,Indiana
+1521,1627,Iowa State
+1522,1628,Southern Illinois
+1523,1629,Kansas
+1524,1630,Florida State
+1525,1631,Rhode Island
+1526,1632,Michigan Boston College
+1527,1633,Illinois
+1528,1634,Notre Dame
+1529,1636,Boston University
+1530,1637,Iowa
+1531,1640,Sam Houston State University
+1532,1641,Xavier
+1533,1642,Old Dominion
+1534,1643,Old Dominion
+1535,1644,UConn
+1536,1645,Washington State
+1537,1646,Seton Hall
+1538,1647,Duke Syracuse
+1539,1648,Arizona
+1540,1649,Alabama
+1541,1650,Auburn Georgia Tech
+1542,1652,Augsburg College
+1543,1653,La Salle
+1544,1654,Baylor
+1545,1655,Miami (FL)
+1546,1656,Fresno State
+1547,1657,UConn
+1548,1658,Georgia Tech
+1549,1659,Virginia
+1550,1660,Texas-San Antonio
+1551,1661,Eastern Michigan
+1552,1662,Temple
+1553,1663,University of the Pacific
+1554,1664,Texas-El Paso
+1555,1665,Texas
+1556,1666,Western Kentucky
+1557,1667,Creighton
+1558,1668,New Mexico State
+1559,1669,Western Carolina University
+1560,1670,USC Upstate
+1561,1671,USC
+1562,1672,Kansas New Mexico
+1563,1674,McNeese State University Northwestern State University
+1564,1675,Duke
+1565,1676,Kentucky
+1566,1677,South Carolina Virginia
+1567,1678,Weber State
+1568,1679,Illinois
+1569,1680,Georgetown
+1570,1681,Villanova
+1571,1682,Carleton College Baylor
+1572,1683,Montana State
+1573,1684,UNLV
+1574,1685,Purdue
+1575,1686,Gardner-Webb University Jacksonville University
+1576,1687,Fort Valley State University
+1577,1688,Washington
+1578,1689,Richmond
+1579,1692,Kentucky
+1580,1693,Alabama A&M University
+1581,1694,UNC
+1582,1695,Delta State University Ole Miss
+1583,1696,Southern Illinois
+1584,1697,Loyola Marymount
+1585,1699,Western Kentucky
+1586,1700,Georgia Tech
+1587,1702,Duke
+1588,1704,University of Evansville
+1589,1705,La Salle
+1590,1706,George Washington
+1591,1707,Houston
+1592,1708,Providence
+1593,1709,UNLV
+1594,1710,Pepperdine
+1595,1712,Kansas
+1596,1713,UCLA
+1597,1714,Princeton
+1598,1715,Kentucky
+1599,1716,Central Florida Florida Gulf Coast
+1600,1717,Saint Louis
+1601,1719,Arizona
+1602,1720,UConn
+1603,1721,UCLA New Mexico
+1604,1722,Indiana
+1605,1723,Louisville
+1606,1724,Notre Dame
+1607,1728,College of Charleston
+1608,1729,Saint Mary of the Plains College
+1609,1730,DePaul
+1610,1732,Midland College Oklahoma
+1611,1733,Gannon University
+1612,1734,Kansas
+1613,1735,Indiana
+1614,1736,Central Florida Oklahoma State
+1615,1737,NYU
+1616,1738,West Texas A&M University Auburn University at Montgomery
+1617,1739,Ohio University
+1618,1740,Central Florida Oklahoma State
+1619,1741,VCU
+1620,1742,Florida South Florida
+1621,1743,University of California Irvine New Orleans
+1622,1744,Bradley New Mexico
+1623,1745,Villanova
+1624,1746,Xavier
+1625,1747,Minnesota
+1626,1748,Michigan
+1627,1749,Trenton State University
+1628,1750,Clemson Oklahoma
+1629,1751,Clemson
+1630,1752,Syracuse
+1631,1753,Notre Dame
+1632,1754,Utah
+1633,1755,Boston College Wisconsin
+1634,1756,Kentucky State University
+1635,1757,Clemson
+1636,1758,Ohio State
+1637,1759,Yale
+1638,1760,Pensacola State South Carolina
+1639,1761,Pitt
+1640,1762,Clemson
+1641,1763,Tennessee California
+1642,1764,UNLV
+1643,1765,Oklahoma City University
+1644,1766,LSU
+1645,1767,Cal State Long Beach
+1646,1768,Florida State
+1647,1769,UCLA
+1648,1770,Memphis
+1649,1771,Harvard University
+1650,1772,Iowa State
+1651,1773,Rutgers University
+1652,1774,Oregon State
+1653,1775,University of Northern Iowa
+1654,1776,UNC
+1655,1777,Hampton
+1656,1778,Michigan State
+1657,1779,Virginia Tech
+1658,1782,Alabama
+1659,1783,Radford
+1660,1784,Georgetown
+1661,1785,Michigan State
+1662,1786,Arizona
+1663,1787,University of Texas Rio Grande Valley
+1664,1788,Wake Forest
+1665,1789,Morehead State University
+1666,1790,Georgia
+1667,1791,Long Island University
+1668,1792,Louisiana Tech
+1669,1793,Vincennes University Michigan
+1670,1794,NC State Iona College
+1671,1795,Duquesne
+1672,1796,UNLV
+1673,1797,Indiana
+1674,1798,Florida
+1675,1799,Southern University and A&M College
+1676,1800,Detroit Mercy
+1677,1801,Syracuse
+1678,1802,Florida Louisiana
+1679,1803,Maryland
+1680,1804,UCLA
+1681,1805,Marshall
+1682,1806,Temple
+1683,1807,South Carolina
+1684,1808,Wisconsin
+1685,1809,Oregon
+1686,1810,La Salle
+1687,1811,Kentucky
+1688,1812,California Western Uiversity
+1689,1813,Seton Hall
+1690,1814,Duke
+1691,1815,Oklahoma
+1692,1816,Seton Hall
+1693,1817,Idaho State University
+1694,1818,Western Michigan
+1695,1819,Oklahoma
+1696,1820,Louisville
+1697,1821,Dayton
+1698,1822,Kansas Houston
+1699,1823,Missouri
+1700,1824,Brown University
+1701,1825,Duke
+1702,1826,Seattle University Cal State Long Beach
+1703,1827,Louisville
+1704,1828,Loyola Marymount
+1705,1829,Kentucky
+1706,1830,UNC
+1707,1831,NC State
+1708,1832,Tennessee
+1709,1833,George Washington
+1710,1834,Washington
+1711,1836,Iona College
+1712,1837,Monroe Community College Stony Brook University Pitt
+1713,1838,Washington State
+1714,1839,NC State
+1715,1841,University of Minnesota Duluth
+1716,1842,St. John's Boston College
+1717,1843,Iowa
+1718,1844,Saint Joseph's
+1719,1845,Saint Joseph's
+1720,1846,Saint Joseph's
+1721,1847,California
+1722,1848,Virginia
+1723,1849,Indiana
+1724,1850,Gonzaga
+1725,1851,Syracuse
+1726,1853,Providence
+1727,1854,Illinois University of Evansville
+1728,1855,Kentucky
+1729,1856,St. Bonaventure
+1730,1857,Vanderbilt
+1731,1858,Kentucky
+1732,1859,NC State
+1733,1860,Bowling Green
+1734,1861,NYU
+1735,1862,Michigan State
+1736,1863,Oregon
+1737,1864,UNC
+1738,1865,Tennessee
+1739,1866,West Texas A&M University
+1740,1867,Oregon State
+1741,1868,Santa Clara
+1742,1869,Utah State University
+1743,1870,UCLA
+1744,1871,Iowa State
+1745,1872,Imperial Valley College Utah State University
+1746,1873,Virginia
+1747,1874,Alabama
+1748,1875,Saint Joseph's
+1749,1877,George Washington
+1750,1878,Clemson
+1751,1879,Montana State
+1752,1880,Drake University
+1753,1881,Texas Tech
+1754,1882,Tennessee
+1755,1883,Franklin College
+1756,1884,UConn
+1757,1885,Arizona State
+1758,1886,Southwestern Christian College University of North Texas
+1759,1887,Texas
+1760,1888,Iowa State LSU
+1761,1889,Indiana
+1762,1890,UConn
+1763,1891,UCLA
+1764,1892,Purdue Morehead State University
+1765,1893,Mississippi State
+1766,1894,Pitt
+1767,1895,St. John's
+1768,1896,LSU
+1769,1897,Tulsa
+1770,1898,Georgia Tech
+1771,1899,Purdue
+1772,1900,Houston
+1773,1902,Kansas
+1774,1903,Western Michigan
+1775,1904,Oklahoma State
+1776,1905,Penn
+1777,1906,Texas Tech Arkansas
+1778,1907,USC
+1779,1908,Loyola Chicago
+1780,1909,Long Island University
+1781,1910,Mississippi State Notre Dame
+1782,1911,UNC
+1783,1912,Iowa
+1784,1913,LSU
+1785,1914,Washington
+1786,1915,Utah Valley BYU
+1787,1917,Kentucky
+1788,1918,Notre Dame
+1789,1919,Notre Dame
+1790,1920,Memphis
+1791,1921,Texas-El Paso
+1792,1922,Michigan
+1793,1923,Arizona State
+1794,1925,Grambling State University
+1795,1926,Michigan
+1796,1927,Baylor
+1797,1929,San Francisco
+1798,1930,Southeastern Iowa Community College West Burlington Campus New Mexico
+1799,1931,Texas
+1800,1932,Cal State Northridge Oklahoma UNLV
+1801,1933,St. John's
+1802,1934,Loyola Chicago
+1803,1935,South Carolina
+1804,1936,Louisville
+1805,1937,Illinois
+1806,1938,Rutgers University
+1807,1939,Auburn
+1808,1940,Richmond
+1809,1941,North Park University
+1810,1942,Miami University
+1811,1943,Rutgers University
+1812,1944,Georgia Tech
+1813,1945,Louisville
+1814,1946,Kentucky
+1815,1947,NC State Auburn
+1816,1949,Wingate University
+1817,1950,Georgetown
+1818,1951,Stanford
+1819,1952,VCU
+1820,1953,Northern Illinois
+1821,1954,Oklahoma State
+1822,1955,Dayton
+1823,1956,Wisconsin
+1824,1957,Gonzaga
+1825,1958,Michigan State
+1826,1959,Nevada Louisiana Tech
+1827,1960,Virginia
+1828,1961,Stephen F. Austin
+1829,1962,Cal State Long Beach
+1830,1963,Michigan
+1831,1964,Rice University
+1832,1965,Tulsa
+1833,1966,Oklahoma State
+1834,1967,Tennessee
+1835,1968,Lamar New Orleans
+1836,1969,Kentucky
+1837,1970,Kentucky
+1838,1971,Michigan
+1839,1972,Colorado
+1840,1973,Tulsa
+1841,1974,Syracuse
+1842,1975,Villanova
+1843,1977,Southern Illinois Georgia Pfeiffer University
+1844,1978,Florida
+1845,1979,Oregon State
+1846,1980,Western Kentucky
+1847,1981,Florida
+1848,1982,Austin Peay State University
+1849,1983,Notre Dame
+1850,1984,Providence
+1851,1985,Arkansas
+1852,1986,Indiana
+1853,1987,Kentucky
+1854,1988,Marquette Virginia
+1855,1989,Ohio State
+1856,1990,Washington
+1857,1991,Washington
+1858,1992,Illinois State
+1859,1993,Iowa
+1860,1994,Bradley
+1861,1995,UConn
+1862,1996,Cal State Long Beach
+1863,1997,Tennessee
+1864,1998,Xavier
+1865,1999,Notre Dame
+1866,2000,Southern Illinois
+1867,2001,Kentucky
+1868,2002,Houston
+1869,2003,Western Carolina University Georgia
+1870,2004,Texas
+1871,2005,Boston University
+1872,2007,Idaho State University
+1873,2008,Wisconsin
+1874,2009,Butler
+1875,2010,Marquette
+1876,2011,UNC
+1877,2012,Trinidad State Junior College Detroit Mercy
+1878,2013,Indiana State University
+1879,2014,UCLA
+1880,2015,Illinois
+1881,2017,Acadia University
+1882,2018,Oklahoma
+1883,2019,Northwestern
+1884,2020,Canisius
+1885,2021,Texas
+1886,2022,Holy Cross
+1887,2023,Wake Forest
+1888,2024,Indiana
+1889,2025,Georgia
+1890,2026,Memphis
+1891,2027,Duke
+1892,2028,VCU
+1893,2029,Duke
+1894,2030,UCLA
+1895,2031,New Mexico
+1896,2032,Cal State Fullerton
+1897,2034,Hawaii
+1898,2035,Central Florida
+1899,2036,Washington State
+1900,2037,Villanova
+1901,2038,California
+1902,2039,Michigan State
+1903,2040,Wisconsin
+1904,2041,Rice University
+1905,2042,Oklahoma City University Kansas
+1906,2043,UC Santa Barbara
+1907,2044,DePaul
+1908,2045,Midland College Oklahoma
+1909,2046,Kansas
+1910,2047,UNC
+1911,2048,Kansas State
+1912,2049,University of Arkansas at Pine Bluff
+1913,2050,Wisconsin Louisville
+1914,2051,Mount Union College
+1915,2052,Minnesota
+1916,2053,Miami (FL)
+1917,2056,Boston College Fresno State
+1918,2057,Jacksonville College Houston
+1919,2059,Kentucky
+1920,2060,Villanova
+1921,2061,City College of New York
+1922,2062,UT Arlington
+1923,2063,Murray State College LSU
+1924,2064,Davidson
+1925,2065,USC
+1926,2066,Temple
+1927,2067,Duke
+1928,2069,Georgetown
+1929,2071,UNC
+1930,2072,Tulane
+1931,2073,NC State
+1932,2074,Oklahoma
+1933,2075,Ashland University
+1934,2076,Colorado
+1935,2077,Casper College Eastern Michigan
+1936,2078,University of Northern Colorado
+1937,2079,Fresno State
+1938,2080,Michigan
+1939,2081,LSU
+1940,2082,Nevada
+1941,2083,Wheeling University
+1942,2084,Kansas
+1943,2086,Princeton
+1944,2087,Winston-Salem State
+1945,2088,Oklahoma City University
+1946,2089,IUPUI
+1947,2090,Duke
+1948,2091,Arizona
+1949,2092,Illinois
+1950,2093,Wichita State Cameron University West Texas A&M University
+1951,2094,Arizona
+1952,2095,Arkansas
+1953,2096,Xavier
+1954,2097,Long Island University
+1955,2098,Villanova
+1956,2099,San Jose State
+1957,2100,Grambling State University
+1958,2101,Kansas
+1959,2102,Rutgers University
+1960,2103,Houston
+1961,2104,Brooklyn College
+1962,2105,Kansas State
+1963,2106,Miami (FL)
+1964,2107,Wake Forest
+1965,2108,New Mexico
+1966,2109,State College of Florida Manatee-Sarasota Cleveland State University Missouri
+1967,2110,Temple
+1968,2111,NC State
+1969,2112,Cal State Long Beach
+1970,2113,Queens College
+1971,2114,Purdue
+1972,2115,Tennessee
+1973,2116,Cincinnati
+1974,2117,Iowa State
+1975,2118,Wisconsin
+1976,2119,Fresno State San Diego State
+1977,2120,UCLA
+1978,2121,UCLA
+1979,2122,Washington
+1980,2123,UCLA
+1981,2124,Kentucky
+1982,2125,Boston University
+1983,2127,New Orleans
+1984,2128,Dixie State (UT) Arizona State
+1985,2129,UCLA
+1986,2130,St. Bonaventure
+1987,2131,Arizona
+1988,2132,SMU
+1989,2133,Dayton
+1990,2134,Bowling Green
+1991,2135,Gonzaga
+1992,2136,Cincinnati
+1993,2137,Jackson State University
+1994,2138,UCLA
+1995,2139,Long Island University
+1996,2140,George Washington
+1997,2141,City College of New York
+1998,2142,Tulane
+1999,2143,UCLA
+2000,2144,Arkansas
+2001,2145,Mississippi State Duke
+2002,2146,Indiana
+2003,2147,Dayton
+2004,2148,SMU
+2005,2149,Villanova
+2006,2150,Grambling State University
+2007,2151,Nebraska
+2008,2152,Ohio State
+2009,2153,Tennessee
+2010,2154,Dayton
+2011,2155,Auburn South Carolina
+2012,2156,Florida
+2013,2157,Miami (FL)
+2014,2158,Indiana
+2015,2159,Iowa State
+2016,2160,NC State
+2017,2161,Alabama
+2018,2162,Iowa
+2019,2163,Iowa State
+2020,2164,Ohio State
+2021,2165,Washington
+2022,2166,Texas A&M
+2023,2167,Arizona State
+2024,2168,Michigan
+2025,2169,Tennessee
+2026,2170,Oklahoma State
+2027,2171,Penn State
+2028,2172,NC State
+2029,2174,New Mexico
+2030,2175,Michigan
+2031,2176,Wake Forest
+2032,2177,Michigan
+2033,2178,Marquette
+2034,2179,Maryland
+2035,2180,Austin Peay State University
+2036,2181,DePaul
+2037,2183,Mississippi State
+2038,2184,Springfield College
+2039,2185,Michigan
+2040,2186,Northwest Missouri State University
+2041,2187,University of Tennessee at Martin
+2042,2188,Minnesota
+2043,2189,Missouri Southern Illinois
+2044,2191,Maryland
+2045,2192,Stanford
+2046,2193,Virginia
+2047,2194,Central Michigan University
+2048,2195,Loyola Chicago
+2049,2196,Colorado State
+2050,2197,Syracuse East Carolina University
+2051,2198,Wisconsin
+2052,2199,Saint Louis
+2053,2200,Thomas More College
+2054,2202,Purdue
+2055,2203,Princeton
+2056,2204,Oklahoma Notre Dame
+2057,2205,Kentucky
+2058,2206,Colorado
+2059,2207,Minnesota
+2060,2208,West Virginia
+2061,2209,SMU
+2062,2210,Ohio University
+2063,2211,Kansas
+2064,2212,Michigan
+2065,2213,Virginia
+2066,2214,Loyola Chicago
+2067,2215,Alcorn State Jackson State University
+2068,2216,Ohio State
+2069,2217,Georgia State University
+2070,2218,DePaul
+2071,2219,Texas-El Paso
+2072,2220,Duke
+2073,2221,Murray State
+2074,2222,Duke
+2075,2223,Texas Tech
+2076,2224,Ohio State
+2077,2225,BYU
+2078,2226,Boise State
+2079,2227,Hamline University
+2080,2228,Eastern New Mexico University
+2081,2229,VCU
+2082,2230,Gonzaga
+2083,2231,Syracuse
+2084,2233,Providence
+2085,2234,Illinois University of Evansville
+2086,2235,Kentucky
+2087,2236,St. Bonaventure
+2088,2237,Vanderbilt
+2089,2238,Kentucky
+2090,2239,NC State
+2091,2240,Bowling Green
+2092,2241,NYU
+2093,2242,Michigan State
+2094,2243,Oregon
+2095,2244,UNC
+2096,2245,Tennessee
+2097,2246,West Texas A&M University
+2098,2247,Oregon State
+2099,2248,Santa Clara
+2100,2249,Utah State University
+2101,2250,UCLA
+2102,2251,Iowa State
+2103,2252,Imperial Valley College Utah State University
+2104,2253,Virginia
+2105,2254,Alabama
+2106,2255,Saint Joseph's
+2107,2257,George Washington
+2108,2258,Clemson
+2109,2259,Montana State
+2110,2260,Drake University
+2111,2261,Texas Tech
+2112,2262,Tennessee
+2113,2263,Franklin College
+2114,2264,UConn
+2115,2265,Arizona State
+2116,2266,Southwestern Christian College University of North Texas
+2117,2267,Texas
+2118,2268,Iowa State LSU
+2119,2269,Indiana
+2120,2270,UConn
+2121,2271,UCLA
+2122,2272,Purdue Morehead State University
+2123,2273,Mississippi State
+2124,2274,Pitt
+2125,2275,St. John's
+2126,2276,LSU
+2127,2277,Tulsa
+2128,2278,Georgia Tech
+2129,2279,Purdue
+2130,2280,Houston
+2131,2282,Kansas
+2132,2283,Western Michigan
+2133,2284,Oklahoma State
+2134,2285,Penn
+2135,2286,Texas Tech Arkansas
+2136,2287,USC
+2137,2288,Loyola Chicago
+2138,2289,Long Island University
+2139,2290,Mississippi State Notre Dame
+2140,2291,UNC
+2141,2292,Iowa
+2142,2293,LSU
+2143,2294,Washington
+2144,2295,Utah Valley BYU
+2145,2297,Kentucky
+2146,2298,Notre Dame
+2147,2299,Notre Dame
+2148,2300,Memphis
+2149,2301,Texas-El Paso
+2150,2302,Michigan
+2151,2303,Arizona State
+2152,2305,Grambling State University
+2153,2306,Michigan
+2154,2307,Baylor
+2155,2309,San Francisco
+2156,2310,Southeastern Iowa Community College West Burlington Campus New Mexico
+2157,2311,Texas
+2158,2312,Cal State Northridge Oklahoma UNLV
+2159,2313,St. John's
+2160,2314,Loyola Chicago
+2161,2315,South Carolina
+2162,2316,Louisville
+2163,2317,Illinois
+2164,2318,Rutgers University
+2165,2319,Auburn
+2166,2320,Richmond
+2167,2321,North Park University
+2168,2322,Miami University
+2169,2323,Rutgers University
+2170,2324,Georgia Tech
+2171,2325,Louisville
+2172,2326,Kentucky
+2173,2327,NC State Auburn
+2174,2329,Wingate University
+2175,2330,Georgetown
+2176,2331,Stanford
+2177,2332,VCU
+2178,2333,Northern Illinois
+2179,2334,Oklahoma State
+2180,2335,Dayton
+2181,2336,Wisconsin
+2182,2337,Gonzaga
+2183,2338,Michigan State
+2184,2339,Nevada Louisiana Tech
+2185,2340,Virginia
+2186,2341,Stephen F. Austin
+2187,2342,Cal State Long Beach
+2188,2343,Michigan
+2189,2344,Rice University
+2190,2345,Tulsa
+2191,2346,Oklahoma State
+2192,2347,Tennessee
+2193,2348,Lamar New Orleans
+2194,2349,Kentucky
+2195,2350,Kentucky
+2196,2351,Michigan
+2197,2352,Colorado
+2198,2353,Tulsa
+2199,2354,Syracuse
+2200,2355,Villanova
+2201,2357,Southern Illinois Georgia Pfeiffer University
+2202,2358,Florida
+2203,2359,Oregon State
+2204,2360,Western Kentucky
+2205,2361,Florida
+2206,2362,Austin Peay State University
+2207,2363,Notre Dame
+2208,2364,Providence
+2209,2365,Arkansas
+2210,2366,Indiana
+2211,2367,Kentucky
+2212,2368,Marquette Virginia
+2213,2369,Ohio State
+2214,2370,Washington
+2215,2371,Washington
+2216,2372,Illinois State
+2217,2373,Iowa
+2218,2374,Bradley
+2219,2375,UConn
+2220,2376,Cal State Long Beach
+2221,2377,Tennessee
+2222,2378,Xavier
+2223,2379,Notre Dame
+2224,2380,Southern Illinois
+2225,2381,Kentucky
+2226,2382,Houston
+2227,2383,Western Carolina University Georgia
+2228,2384,Texas
+2229,2385,Boston University
+2230,2387,Idaho State University
+2231,2388,Wisconsin
+2232,2389,Butler
+2233,2390,Marquette
+2234,2391,UNC
+2235,2392,Trinidad State Junior College Detroit Mercy
+2236,2393,Indiana State University
+2237,2394,UCLA
+2238,2395,Illinois
+2239,2397,Acadia University
+2240,2398,Oklahoma
+2241,2399,Northwestern
+2242,2400,Canisius
+2243,2401,Texas
+2244,2402,Holy Cross
+2245,2403,Wake Forest
+2246,2404,Indiana
+2247,2405,Georgia
+2248,2406,Memphis
+2249,2407,Duke
+2250,2408,VCU
+2251,2409,Duke
+2252,2410,UCLA
+2253,2411,New Mexico
+2254,2412,Cal State Fullerton
+2255,2414,Hawaii
+2256,2415,Central Florida
+2257,2416,Washington State
+2258,2417,Villanova
+2259,2418,California
+2260,2419,Michigan State
+2261,2420,Wisconsin
+2262,2421,Rice University
+2263,2422,Oklahoma City University Kansas
+2264,2423,UC Santa Barbara
+2265,2424,DePaul
+2266,2425,Midland College Oklahoma
+2267,2426,Kansas
+2268,2427,UNC
+2269,2428,Kansas State
+2270,2429,University of Arkansas at Pine Bluff
+2271,2430,Wisconsin Louisville
+2272,2431,Mount Union College
+2273,2432,Minnesota
+2274,2433,Miami (FL)
+2275,2436,Boston College Fresno State
+2276,2437,Jacksonville College Houston
+2277,2439,Kentucky
+2278,2440,Villanova
+2279,2441,City College of New York
+2280,2442,UT Arlington
+2281,2443,Murray State College LSU
+2282,2444,Davidson
+2283,2445,USC
+2284,2446,Temple
+2285,2447,Duke
+2286,2449,Georgetown
+2287,2451,UNC
+2288,2452,Tulane
+2289,2453,NC State
+2290,2454,Oklahoma
+2291,2455,Ashland University
+2292,2456,Colorado
+2293,2457,Casper College Eastern Michigan
+2294,2458,University of Northern Colorado
+2295,2459,Fresno State
+2296,2460,Michigan
+2297,2461,LSU
+2298,2462,Nevada
+2299,2463,Wheeling University
+2300,2464,Kansas
+2301,2466,Princeton
+2302,2467,Winston-Salem State
+2303,2468,Oklahoma City University
+2304,2469,IUPUI
+2305,2470,Duke
+2306,2471,Arizona
+2307,2472,Illinois
+2308,2473,Wichita State Cameron University West Texas A&M University
+2309,2474,Arizona
+2310,2475,Arkansas
+2311,2476,Xavier
+2312,2477,Long Island University
+2313,2478,Villanova
+2314,2479,San Jose State
+2315,2480,Grambling State University
+2316,2481,Kansas
+2317,2482,Rutgers University
+2318,2483,Houston
+2319,2484,Brooklyn College
+2320,2485,Kansas State
+2321,2486,Miami (FL)
+2322,2487,Wake Forest
+2323,2488,New Mexico
+2324,2489,State College of Florida Manatee-Sarasota Cleveland State University Missouri
+2325,2490,Temple
+2326,2491,NC State
+2327,2492,Cal State Long Beach
+2328,2493,Queens College
+2329,2494,Purdue
+2330,2495,Tennessee
+2331,2496,Cincinnati
+2332,2497,Iowa State
+2333,2498,Wisconsin
+2334,2499,Fresno State San Diego State
+2335,2500,UCLA
+2336,2501,UCLA
+2337,2502,Washington
+2338,2503,UCLA
+2339,2504,Kentucky
+2340,2505,Boston University
+2341,2507,New Orleans
+2342,2508,Dixie State (UT) Arizona State
+2343,2509,UCLA
+2344,2510,St. Bonaventure
+2345,2511,Arizona
+2346,2512,SMU
+2347,2513,Dayton
+2348,2514,Bowling Green
+2349,2515,Gonzaga
+2350,2516,Cincinnati
+2351,2517,Jackson State University
+2352,2518,UCLA
+2353,2519,Long Island University
+2354,2520,George Washington
+2355,2521,City College of New York
+2356,2522,Tulane
+2357,2523,UCLA
+2358,2524,Arkansas
+2359,2525,Mississippi State Duke
+2360,2526,Indiana
+2361,2527,Dayton
+2362,2528,SMU
+2363,2529,Villanova
+2364,2530,Grambling State University
+2365,2531,Nebraska
+2366,2532,Ohio State
+2367,2533,Tennessee
+2368,2534,Dayton
+2369,2535,Auburn South Carolina
+2370,2536,Florida
+2371,2537,Miami (FL)
+2372,2538,Indiana
+2373,2539,Iowa State
+2374,2540,NC State
+2375,2541,Alabama
+2376,2542,Iowa
+2377,2543,Iowa State
+2378,2544,Ohio State
+2379,2545,Washington
+2380,2546,Texas A&M
+2381,2547,Arizona State
+2382,2548,Michigan
+2383,2549,Tennessee
+2384,2550,Oklahoma State
+2385,2551,Penn State
+2386,2552,NC State
+2387,2554,New Mexico
+2388,2555,Michigan
+2389,2556,Wake Forest
+2390,2557,Michigan
+2391,2558,Marquette
+2392,2559,Maryland
+2393,2560,Austin Peay State University
+2394,2561,DePaul
+2395,2563,Mississippi State
+2396,2564,Springfield College
+2397,2565,Michigan
+2398,2566,Northwest Missouri State University
+2399,2567,University of Tennessee at Martin
+2400,2568,Minnesota
+2401,2569,Missouri Southern Illinois
+2402,2571,Maryland
+2403,2572,Stanford
+2404,2573,Virginia
+2405,2574,Central Michigan University
+2406,2575,Loyola Chicago
+2407,2576,Colorado State
+2408,2577,Syracuse East Carolina University
+2409,2578,Wisconsin
+2410,2579,Saint Louis
+2411,2580,Thomas More College
+2412,2582,Purdue
+2413,2583,Princeton
+2414,2584,Oklahoma Notre Dame
+2415,2585,Kentucky
+2416,2586,Colorado
+2417,2587,Minnesota
+2418,2588,West Virginia
+2419,2589,SMU
+2420,2590,Ohio University
+2421,2591,Kansas
+2422,2592,Michigan
+2423,2593,Virginia
+2424,2594,Loyola Chicago
+2425,2595,Alcorn State Jackson State University
+2426,2596,Ohio State
+2427,2597,Georgia State University
+2428,2598,DePaul
+2429,2599,Texas-El Paso
+2430,2600,Duke
+2431,2601,Murray State
+2432,2602,Duke
+2433,2603,Texas Tech
+2434,2604,Ohio State
+2435,2605,BYU
+2436,2606,Boise State
+2437,2607,Hamline University
+2438,2608,Eastern New Mexico University
+2439,2609,VCU
+2440,2610,Virginia
+2441,2612,Marquette
+2442,2613,Arizona
+2443,2618,California
+2444,2619,Villanova
+2445,2622,American University
+2446,2623,Duke
+2447,2624,Stanford UNC
+2448,2625,Jackson State University
+2449,2626,Indiana
+2450,2627,Arkansas Missouri
+2451,2628,Washington
+2452,2629,Duke
+2453,2630,Florida State
+2454,2631,Kentucky
+2455,2632,Penn State Saint Francis University
+2456,2633,Georgetown
+2457,2634,Central Michigan University
+2458,2635,Purdue
+2459,2636,Texas
+2460,2637,Louisiana
+2461,2638,Kansas State
+2462,2639,Wichita State
+2463,2640,Georgia Tech
+2464,2641,Duquesne
+2465,2642,Wilberforce University
+2466,2643,UConn
+2467,2644,Minnesota
+2468,2645,St. John's Cleveland State University
+2469,2646,Kansas
+2470,2647,Notre Dame
+2471,2648,Duke
+2472,2649,Guilford College
+2473,2650,South Carolina
+2474,2651,Kentucky
+2475,2652,Georgetown
+2476,2653,Michigan State
+2477,2654,Detroit Mercy
+2478,2655,Ohio State
+2479,2656,Kansas
+2480,2657,UNC
+2481,2658,University of Texas Rio Grande Valley
+2482,2659,Oregon
+2483,2660,VCU Temple
+2484,2661,St. John's
+2485,2662,Utah
+2486,2663,Georgetown
+2487,2664,Allan Hancock College California State University Los Angeles
+2488,2665,Little Rock
+2489,2666,University of North Dakota
+2490,2667,Baylor
+2491,2668,Texas A&M
+2492,2669,UCLA
+2493,2670,Florida State
+2494,2671,Boston College
+2495,2672,UAB
+2496,2673,Butler County Community College
+2497,2674,St. John's
+2498,2675,Florida State
+2499,2676,Notre Dame
+2500,2677,Ohio State
+2501,2678,Indiana
+2502,2679,Denver
+2503,2680,Stanford
+2504,2681,Minnesota
+2505,2682,Illinois
+2506,2683,Ohio University
+2507,2684,Grambling State University
+2508,2685,Florida State
+2509,2686,Marshall
+2510,2687,USC
+2511,2688,Texas
+2512,2689,Marshall
+2513,2690,South Plains College St. Mary's University
+2514,2691,Florida A&M
+2515,2692,Wyoming
+2516,2694,Duquesne
+2517,2695,Lamar
+2518,2696,Tulane Duke
+2519,2697,Miami (FL)
+2520,2698,UNC
+2521,2699,Clemson
+2522,2700,Valparaiso
+2523,2701,Seton Hall
+2524,2702,UCLA
+2525,2704,Minnesota
+2526,2705,UMass Houston
+2527,2706,Oregon State
+2528,2707,Maryland
+2529,2708,Midland College
+2530,2709,Washington & Jefferson College
+2531,2710,University of Wisconsin-Parkside
+2532,2711,Arkansas Fresno State
+2533,2712,University of Illinois at Chicago Robert Morris University (IL)
+2534,2714,Duke
+2535,2715,Baylor
+2536,2716,Arkansas
+2537,2717,Arizona
+2538,2718,Oral Roberts Tulsa
+2539,2719,Indiana
+2540,2720,Clemson UAB
+2541,2721,Hofstra
+2542,2722,University of the Pacific Iona College St. John's
+2543,2723,William Paterson University
+2544,2724,Vanderbilt
+2545,2726,East Tennessee State University
+2546,2727,Ohio State
+2547,2728,Iowa
+2548,2730,Virginia
+2549,2731,Arizona
+2550,2732,University of Portland
+2551,2733,Drake University
+2552,2735,Arkansas
+2553,2736,Utah
+2554,2738,Florida State
+2555,2739,Frank Phillips College Missouri State
+2556,2741,University of Portland
+2557,2742,College of Charleston
+2558,2743,Nevada
+2559,2744,Bemidji State University
+2560,2745,Cameron University Southern University and A&M College
+2561,2746,Syracuse La Salle
+2562,2747,UNC
+2563,2748,Alabama
+2564,2749,Pitt UNC
+2565,2750,UAB
+2566,2751,California
+2567,2752,Wichita State
+2568,2753,LSU
+2569,2754,Dayton
+2570,2755,Missouri
+2571,2756,Florida A&M
+2572,2757,Kentucky
+2573,2758,Michigan State
+2574,2759,Syracuse
+2575,2760,Louisville
+2576,2761,UNC Charlotte
+2577,2762,Harbor College Pepperdine
+2578,2763,Cincinnati
+2579,2764,Tennessee State
+2580,2765,Auburn
+2581,2766,Illinois
+2582,2767,Baylor Nebraska
+2583,2768,New Orleans
+2584,2769,Wake Forest
+2585,2770,Stephen F. Austin
+2586,2771,Dillard University
+2587,2772,St. John's
+2588,2773,Boise State Idaho
+2589,2774,Indiana State University
+2590,2775,Oregon Cal State San Bernardino
+2591,2776,Purdue
+2592,2777,Duke
+2593,2778,Wake Forest
+2594,2779,Arkansas
+2595,2780,Northwest College Iowa
+2596,2781,Western Kentucky
+2597,2782,Kentucky
+2598,2783,USC Michigan State
+2599,2784,Ohio State
+2600,2785,Tennessee
+2601,2786,San Diego State Arizona
+2602,2787,California
+2603,2788,Florida Kansas State
+2604,2789,Kentucky
+2605,2790,Odessa College UNLV
+2606,2791,Montana Texas A&M University-Commerce
+2607,2792,Tulane
+2608,2793,Michigan State
+2609,2794,UCLA
+2610,2795,Aurora University
+2611,2796,Tulsa Creighton
+2612,2797,Arizona
+2613,2798,Temple
+2614,2799,Oregon State
+2615,2800,Loyola Marymount UC Santa Barbara
+2616,2801,Huntington University
+2617,2802,Tennessee
+2618,2803,Grambling State University
+2619,2804,Minnesota
+2620,2805,Arizona
+2621,2806,LSU San Diego State
+2622,2807,Oregon State
+2623,2808,Murray State
+2624,2809,Texas
+2625,2810,Alcorn State Jackson State University
+2626,2811,Fresno State
+2627,2812,Baylor
+2628,2813,Iowa State Syracuse
+2629,2814,Marquette
+2630,2815,University of Tampa
+2631,2816,Ohio State
+2632,2817,Wake Forest
+2633,2819,Ohio University
+2634,2820,Georgia Tech
+2635,2821,Georgetown UNLV
+2636,2822,Kansas State
+2637,2823,Iowa
+2638,2824,UNC
+2639,2825,Washington
+2640,2826,Albany State University
+2641,2827,Radford Louisville
+2642,2828,Albany State University
+2643,2829,Louisville
+2644,2830,Rutgers University Long Island University
+2645,2831,Xavier
+2646,2832,Notre Dame
+2647,2833,Indian Hills Community College Buffalo Iowa State
+2648,2834,Rutgers University Duke
+2649,2835,Vanderbilt
+2650,2836,Houston
+2651,2837,Miami (FL)
+2652,2838,UNLV
+2653,2839,Weber State
+2654,2840,South Florida
+2655,2841,Northeast Mississippi Community College Mississippi State
+2656,2842,Saint Joseph's
+2657,2843,Houston
+2658,2844,University of the District of Columbia
+2659,2845,Temple
+2660,2846,Nevada
+2661,2847,Oregon
+2662,2848,Alabama
+2663,2849,Buffalo State Vanderbilt
+2664,2850,Wenatchee Valley College Idaho Washington State
+2665,2851,Assumption College
+2666,2852,SMU Texas A&M
+2667,2853,Miami (FL)
+2668,2854,Hill College New Mexico State
+2669,2855,Grambling State University
+2670,2856,California State University Los Angeles
+2671,2857,Georgia
+2672,2858,San Francisco
+2673,2859,Texas
+2674,2860,West Virginia
+2675,2861,Toledo
+2676,2862,Albany State University
+2677,2863,St. Bonaventure
+2678,2864,Minnesota Central Florida
+2679,2865,Connors State College Arkansas
+2680,2866,Oregon
+2681,2867,Wichita State Cal State Fullerton
+2682,2868,Baylor
+2683,2869,Murray State
+2684,2870,Illinois Memphis
+2685,2871,Saint Louis
+2686,2872,NC Central
+2687,2873,St. John's
+2688,2874,South Florida
+2689,2875,Stanford
+2690,2876,Oregon
+2691,2877,Kentucky
+2692,2878,Duke
+2693,2879,Duke
+2694,2880,Kentucky
+2695,2881,Villanova
+2696,2882,Albany State University
+2697,2883,Northwestern
+2698,2884,DePaul St. John's Memphis
+2699,2885,Kansas
+2700,2886,Canisius
+2701,2887,Texas A&M
+2702,2888,Rutgers University
+2703,2889,Tulsa
+2704,2890,UNC
+2705,2891,New Mexico State
+2706,2892,Oklahoma State
+2707,2893,Purdue
+2708,2894,Whitworth
+2709,2895,DePaul
+2710,2896,Iowa
+2711,2897,Ohio State
+2712,2898,Texas
+2713,2899,College of Saint Rose
+2714,2900,Syracuse
+2715,2901,Georgia Tech
+2716,2903,South Carolina
+2717,2904,Indiana
+2718,2905,Utah
+2719,2906,Kentucky UCLA
+2720,2907,Florida State
+2721,2908,DePaul
+2722,2909,Holy Cross
+2723,2910,Minnesota
+2724,2912,Creighton
+2725,2913,Central Michigan University
+2726,2914,Wisconsin
+2727,2915,NYU
+2728,2916,UCLA
+2729,2919,Boise State
+2730,2920,UNC
+2731,2923,NC State
+2732,2924,Guilford College
+2733,2925,Kansas
+2734,2926,Loyola Chicago
+2735,2928,Lamar
+2736,2929,Princeton
+2737,2930,UNC
+2738,2931,Stanford
+2739,2932,Santa Clara
+2740,2933,Duke
+2741,2934,Purdue
+2742,2935,Florida
+2743,2936,St. John's
+2744,2937,Oregon State
+2745,2938,Stanford
+2746,2939,Ohio State
+2747,2940,Lincoln University of Missouri
+2748,2942,Georgia Tech Auburn
+2749,2943,Duke
+2750,2944,NYU
+2751,2945,Michigan State
+2752,2946,Central Michigan University
+2753,2947,Trinity Valley CC Kentucky
+2754,2948,Notre Dame
+2755,2949,Purdue
+2756,2950,Duke
+2757,2951,St. John's
+2758,2952,Fort Worth Community College TCU
+2759,2953,Duke
+2760,2954,Temple
+2761,2955,Amarillo College Memphis
+2762,2956,St. Bonaventure
+2763,2957,Florida State East Carolina University
+2764,2958,Illinois
+2765,2959,Arizona
+2766,2960,Loyola Chicago
+2767,2961,Longwood University
+2768,2962,Centenary (LA)
+2769,2963,Georgia
+2770,2964,UNC Auburn
+2771,2965,UMass
+2772,2966,Alabama Virginia
+2773,2967,South Carolina State Alcorn State
+2774,2968,Southern Miss
+2775,2970,California
+2776,2971,South Plains College NC Central Colorado State
+2777,2972,Middle Tennessee
+2778,2973,Kentucky
+2779,2974,Oklahoma Baptist University
+2780,2975,Syracuse
+2781,2976,Stetson University
+2782,2977,Louisiana-Monroe
+2783,2978,Cincinnati
+2784,2979,UConn
+2785,2980,USC Loyola Marymount
+2786,2981,Central Florida Xavier
+2787,2982,UNC Charlotte
+2788,2983,Maryland
+2789,2984,Tennessee
+2790,2985,Wake Forest
+2791,2986,Western Kentucky
+2792,2987,Western Carolina University
+2793,2988,University of Charleston
+2794,2989,Colorado
+2795,2990,Nicholls State
+2796,2991,Tulsa
+2797,2992,Michigan
+2798,2993,Oregon
+2799,2994,Virginia Tech
+2800,2995,Kansas
+2801,2996,Alabama
+2802,2997,Nebraska
+2803,2998,Florida State
+2804,2999,Oklahoma
+2805,3000,Michigan
+2806,3001,Rice University
+2807,3002,South Carolina
+2808,3004,New Mexico
+2809,3005,Illinois
+2810,3006,Cheyney (PA)
+2811,3007,Gonzaga
+2812,3008,Boston College
+2813,3009,Duke
+2814,3010,South Florida
+2815,3011,BYU
+2816,3012,Villanova
+2817,3014,Notre Dame Arkansas
+2818,3015,Missouri
+2819,3016,Notre Dame
+2820,3017,Wake Forest
+2821,3018,Villanova
+2822,3019,Indiana State University
+2823,3020,North Carolina A&T
+2824,3021,Northeastern Junior College University of Northern Colorado Tennessee
+2825,3022,Pitt
+2826,3024,Pitt
+2827,3025,Kentucky
+2828,3026,Stanford
+2829,3027,William & Mary
+2830,3028,Dayton
+2831,3029,California State University Los Angeles
+2832,3030,Notre Dame
+2833,3031,UConn
+2834,3032,Detroit Mercy
+2835,3033,Kansas State
+2836,3034,Davidson
+2837,3035,Kentucky
+2838,3036,Duke
+2839,3037,Hastings College University of Nebraska at Kearney
+2840,3038,Marquette
+2841,3039,George Mason Marquette
+2842,3040,Arizona
+2843,3041,Wyoming
+2844,3042,Bowling Green
+2845,3043,Northern Illinois Penn State
+2846,3044,SMU
+2847,3045,Purdue-Fort Wayne
+2848,3046,Minnesota
+2849,3047,Oklahoma City University
+2850,3048,Detroit Mercy
+2851,3050,Vanderbilt
+2852,3051,Vanderbilt
+2853,3053,Creighton
+2854,3054,Providence
+2855,3055,Tennessee
+2856,3056,Georgetown
+2857,3057,Culver-Stockton College
+2858,3058,Ohio State
+2859,3059,Toledo
+2860,3060,Northwestern
+2861,3061,Augustana College (SD)
+2862,3062,NYU
+2863,3063,San Diego State
+2864,3064,BYU
+2865,3065,Georgetown
+2866,3066,Rider University
+2867,3068,SMU
+2868,3070,Drake University
+2869,3071,Kentucky
+2870,3072,University of Nebraska at Kearney
+2871,3074,Montana
+2872,3075,Bradley
+2873,3076,Bowling Green
+2874,3077,UConn
+2875,3078,Saint Mary's
+2876,3079,UNC
+2877,3080,Notre Dame
+2878,3084,Iowa
+2879,3085,Minnesota
+2880,3086,UNC
+2881,3087,Michigan
+2882,3089,Notre Dame
+2883,3091,Utah
+2884,3094,San Francisco
+2885,3095,Kansas
+2886,3096,UNC
+2887,3097,Indiana State University Wake Forest
+2888,3098,Wake Forest
+2889,3099,Dartmouth College
+2890,3100,UCLA
+2891,3101,Kentucky
+2892,3102,Western Michigan
+2893,3103,UCLA
+2894,3104,New Mexico State
+2895,3105,Casper College Marquette
+2896,3106,Southern Miss
+2897,3107,Duke
+2898,3108,Blinn College Brown Mackie College Houston
+2899,3109,Notre Dame
+2900,3110,Ohio University
+2901,3111,Louisiana
+2902,3112,University of Vermont
+2903,3113,Kentucky
+2904,3114,UConn
+2905,3115,USC
+2906,3116,Virginia
+2907,3118,Vanderbilt Little Rock
+2908,3119,California
+2909,3120,Saint Mary's
+2910,3121,Vincennes University Purdue
+2911,3122,Wisconsin
+2912,3123,Minnesota Arizona State
+2913,3124,Pitt
+2914,3125,Arkansas
+2915,3126,Duke
+2916,3128,Duke
+2917,3129,Kansas
+2918,3130,Indiana
+2919,3131,Vanderbilt
+2920,3132,St. Bonaventure
+2921,3133,University of North Florida Tennessee
+2922,3134,Nebraska
+2923,3136,UNC
+2924,3137,Miami (FL)
+2925,3138,Utah Arizona
+2926,3139,Indiana
+2927,3140,UMass
+2928,3141,Texas-El Paso
+2929,3142,Central State University
+2930,3143,Hofstra
+2931,3144,Loyola Chicago Saint Peter's College
+2932,3145,Wisconsin
+2933,3147,Yale
+2934,3148,Illinois Western Kentucky
+2935,3149,Texas A&M
+2936,3150,Northwestern
+2937,3151,Georgia Tech
+2938,3152,McNeese State University
+2939,3153,South Carolina
+2940,3154,Villanova
+2941,3155,UNC
+2942,3156,Maryland
+2943,3157,Phoenix College USC
+2944,3158,Michigan
+2945,3159,UCLA
+2946,3160,Niagara University
+2947,3161,Temple
+2948,3162,Oklahoma City University
+2949,3163,UNC
+2950,3164,Wyoming
+2951,3167,Marquette
+2952,3168,Vanderbilt
+2953,3169,Western Kentucky
+2954,3170,Drexel Louisville
+2955,3171,San Francisco
+2956,3172,Florida
+2957,3173,Washington
+2958,3174,Texas A&M Purdue
+2959,3175,Michigan
+2960,3176,UCLA
+2961,3177,Memphis
+2962,3178,Western Kentucky Towson University
+2963,3179,UCLA
+2964,3180,California San Diego State
+2965,3181,Oregon
+2966,3182,Marshall
+2967,3183,Vanderbilt
+2968,3184,Dartmouth College
+2969,3185,Case Western Reserve University
+2970,3186,La Salle
+2971,3187,Campbell
+2972,3188,Long Island University
+2973,3189,Bradley
+2974,3190,Maryland
+2975,3191,Minnesota
+2976,3192,Houston
+2977,3193,Missouri
+2978,3194,San Diego State
+2979,3195,Illinois
+2980,3196,Indiana
+2981,3197,Mineral Area College Bradley
+2982,3198,Cleveland State University Bradley
+2983,3199,Georgia
+2984,3200,Iowa
+2985,3201,Florida
+2986,3202,Wisconsin
+2987,3203,St. John's
+2988,3204,Arizona State
+2989,3205,Wichita State
+2990,3206,UNC
+2991,3207,Maryland
+2992,3208,Eastern Kentucky University
+2993,3209,Eastern Arizona College Arizona State
+2994,3210,Oklahoma
+2995,3211,Alabama
+2996,3212,Butler County Community College Seward County Community College
+2997,3213,Pepperdine
+2998,3214,Duke
+2999,3215,Minnesota
+3000,3216,La Salle
+3001,3218,Northeastern University
+3002,3219,Florida
+3003,3220,Illinois
+3004,3221,Stanford
+3005,3222,Ohio State
+3006,3223,Kentucky
+3007,3224,Vanderbilt
+3008,3226,Weber State
+3009,3227,Harvard University
+3010,3228,Minnesota South Dakota State
+3011,3229,Arizona State
+3012,3230,UNC
+3013,3231,Delta State University
+3014,3232,High Point University
+3015,3233,Duke
+3016,3234,Michigan
+3017,3235,Kentucky
+3018,3236,LSU
+3019,3238,Saint Mary's Wyoming
+3020,3239,Grand Canyon University
+3021,3240,Rutgers University
+3022,3241,Yankton College
+3023,3242,West Virginia State University
+3024,3243,Drake University
+3025,3244,Arizona State
+3026,3245,Kansas
+3027,3246,Louisville
+3028,3247,Kentucky
+3029,3248,Auburn
+3030,3249,Tennessee
+3031,3250,Kentucky State University Alabama State University
+3032,3251,San Francisco
+3033,3252,Louisiana Tech
+3034,3253,Illinois State Texas Southern New Mexico State
+3035,3254,Western Carolina University
+3036,3255,Indiana
+3037,3256,Iowa
+3038,3257,Cincinnati
+3039,3258,Eastern Michigan
+3040,3259,Detroit Mercy
+3041,3260,Virginia Tech Wake Forest
+3042,3261,Louisiana
+3043,3262,New Mexico
+3044,3263,New Mexico
+3045,3264,UCLA
+3046,3265,Stanford
+3047,3266,St. John's
+3048,3268,Stanford
+3049,3269,Jackson State University
+3050,3270,Oregon
+3051,3271,Seattle University
+3052,3272,Boston College St. John's
+3053,3274,Southern University and A&M College
+3054,3275,UNC Arizona
+3055,3276,UCLA
+3056,3277,Oregon
+3057,3278,Kansas
+3058,3279,NC State
+3059,3280,University of Puget Sound
+3060,3281,Villanova
+3061,3282,Furman University University of Indianapolis
+3062,3283,Fordham
+3063,3284,Ohio State
+3064,3285,Maryland
+3065,3286,Michigan State
+3066,3287,Marquette
+3067,3288,Baylor Oklahoma State
+3068,3289,Houston
+3069,3290,Nebraska
+3070,3291,St. Francis College
+3071,3292,Georgetown
+3072,3293,Miami University
+3073,3294,NYU
+3074,3296,Penn State
+3075,3298,Syracuse
+3076,3299,Kentucky
+3077,3300,Oklahoma Baptist University
+3078,3301,UNC
+3079,3302,Minnesota
+3080,3303,Upper Iowa University Wilberforce University
+3081,3304,UCLA
+3082,3305,Texas Miami (FL)
+3083,3306,Washington
+3084,3307,St. John's
+3085,3308,UCLA
+3086,3309,Canisius
+3087,3310,Saint Louis
+3088,3311,Iona College
+3089,3313,East Carolina University
+3090,3314,Iowa State Tyler Junior College Houston
+3091,3315,Butler
+3092,3316,Georgia Tech
+3093,3317,LSU
+3094,3318,Georgetown Florida
+3095,3319,Seton Hall
+3096,3320,Arkansas
+3097,3321,Temple
+3098,3322,Xavier
+3099,3323,Purdue Kentucky
+3100,3324,SMU West Texas A&M University
+3101,3325,Fresno State
+3102,3326,UCLA
+3103,3327,Stanford
+3104,3328,City College of New York
+3105,3329,Alabama-Huntsville
+3106,3330,Duke
+3107,3331,Kansas
+3108,3332,Kentucky
+3109,3333,Tulsa
+3110,3334,Clemson
+3111,3336,Georgetown
+3112,3337,Manhattan University
+3113,3338,Brown University
+3114,3339,Hampton
+3115,3340,Central Michigan University
+3116,3341,South Plains College Fresno State
+3117,3343,City College of New York
+3118,3345,Mississippi State
+3119,3346,Louisiana Tech
+3120,3348,Vanderbilt Penn
+3121,3349,USC San Diego State
+3122,3350,Davidson
+3123,3351,Duke
+3124,3352,Seton Hall
+3125,3353,Princeton
+3126,3354,Oregon State
+3127,3355,Vanier College
+3128,3356,NYU
+3129,3357,Florida State
+3130,3358,Florida
+3131,3359,Kansas
+3132,3360,Jackson State University
+3133,3361,Prairie View A&M University
+3134,3362,Syracuse Washington
+3135,3363,Arizona
+3136,3364,Utah
+3137,3365,Cornell Vanderbilt
+3138,3366,Northwestern
+3139,3367,LSU
+3140,3368,Davis & Elkins College
+3141,3369,Iowa
+3142,3370,Iowa
+3143,3371,Georgia Tech
+3144,3373,Harvard University
+3145,3374,Duke
+3146,3375,Vincennes University UNLV
+3147,3377,Arizona
+3148,3379,California
+3149,3380,Eastern Michigan
+3150,3381,USC
+3151,3382,Manhattan University
+3152,3383,UConn
+3153,3384,UConn
+3154,3385,UNC
+3155,3386,Xavier
+3156,3387,Ball State University Oakland
+3157,3388,Western Kentucky
+3158,3389,Oklahoma
+3159,3390,Florida Atlantic University Florida
+3160,3391,Georgetown
+3161,3392,Minnesota
+3162,3393,Kansas
+3163,3394,NC State Nevada
+3164,3395,Kansas State
+3165,3396,NC State Nevada
+3166,3397,Purdue
+3167,3398,UCLA
+3168,3399,Georgetown
+3169,3400,Central Missouri State University
+3170,3402,LSU
+3171,3404,Murray State
+3172,3405,Memphis
+3173,3406,Butler
+3174,3407,Cincinnati
+3175,3408,Western Carolina University
+3176,3410,Loyola Chicago
+3177,3411,Saint Joseph's
+3178,3412,Toledo
+3179,3413,Texas
+3180,3414,Rhode Island UConn
+3181,3415,St. Bonaventure
+3182,3416,Tennessee
+3183,3417,Kentucky
+3184,3418,Canisius
+3185,3419,Tennessee State
+3186,3420,Oklahoma State
+3187,3421,Kansas
+3188,3422,Virginia
+3189,3423,Maryland
+3190,3424,Temple
+3191,3425,Georgia
+3192,3426,Lipscomb
+3193,3427,Louisville
+3194,3428,Purdue
+3195,3429,Savannah State University
+3196,3430,Arizona
+3197,3432,Wisconsin
+3198,3433,Marquette
+3199,3434,Utah State University
+3200,3435,Minnesota Texas-El Paso
+3201,3436,Kentucky
+3202,3437,Cincinnati
+3203,3438,UNC Charlotte
+3204,3439,Florida
+3205,3440,Dayton
+3206,3441,Indiana
+3207,3442,UNC
+3208,3443,Arkansas
+3209,3444,Furman University
+3210,3445,Florida State
+3211,3446,Iowa
+3212,3447,Tuskegee University
+3213,3448,VCU
+3214,3449,USC
+3215,3450,LSU
+3216,3451,Texas
+3217,3452,Michigan State
+3218,3453,UCLA
+3219,3454,Vincennes University UNC
+3220,3455,UNC
+3221,3456,University of Maryland Eastern Shore
+3222,3457,West Virginia
+3223,3458,Duke
+3224,3459,Tennessee State
+3225,3460,Detroit Mercy
+3226,3461,Upsala College Morehead State University
+3227,3462,St. Bonaventure
+3228,3463,Purdue
+3229,3464,UNC
+3230,3465,Seton Hall
+3231,3466,UCLA
+3232,3467,Drake University
+3233,3468,Canisius
+3234,3469,Wayne State University
+3235,3470,Southern Miss
+3236,3471,Kentucky
+3237,3472,Marquette
+3238,3473,UNLV
+3239,3474,Villanova
+3240,3475,Tennessee State
+3241,3476,Northern Arizona University
+3242,3477,Pitt Penn
+3243,3478,Florida State
+3244,3479,Georgetown Texas Tech
+3245,3480,Lehigh
+3246,3481,Northwestern State University
+3247,3483,Duquesne Arizona
+3248,3484,Alabama UAB
+3249,3485,Michigan
+3250,3486,UCLA
+3251,3487,Cal State Northridge
+3252,3488,Maryland
+3253,3489,Louisville
+3254,3490,Louisville
+3255,3491,Louisiana Tech
+3256,3492,Texas Tech Kansas
+3257,3493,Syracuse
+3258,3494,Oklahoma
+3259,3495,Arkansas
+3260,3496,Wichita State
+3261,3497,Washington
+3262,3498,San Diego State
+3263,3499,Western Kentucky
+3264,3500,Clemson
+3265,3501,Creighton
+3266,3502,Butler
+3267,3503,University of California Irvine
+3268,3504,Cal State Long Beach
+3269,3505,Utah Valley New Orleans
+3270,3506,Whitworth
+3271,3507,Memphis
+3272,3508,Alabama
+3273,3509,Central Michigan University
+3274,3510,Saint Joseph's
+3275,3511,Oklahoma State
+3276,3512,Arkansas
+3277,3513,Michigan
+3278,3514,Nevada
+3279,3515,Michigan
+3280,3516,Utah
+3281,3517,Indiana
+3282,3518,Indiana
+3283,3519,Nebraska
+3284,3521,Wake Forest
+3285,3522,Oklahoma State
+3286,3523,City College of San Francisco Creighton
+3287,3524,Kansas State
+3288,3525,St. John's
+3289,3526,Marquette
+3290,3527,St. John's Dartmouth College
+3291,3528,California Fresno State
+3292,3529,Minnesota
+3293,3530,North Carolina A&T
+3294,3531,Marquette
+3295,3532,UNC
+3296,3533,Eastern Michigan
+3297,3534,St. John's
+3298,3535,Ohio University
+3299,3536,Creighton
+3300,3537,Loyola Marymount
+3301,3538,NYU
+3302,3539,Alabama
+3303,3540,Temple
+3304,3541,Northwestern
+3305,3542,UNC
+3306,3543,Tulsa SMU
+3307,3544,Missouri-Kansas City Miami (FL)
+3308,3545,Green Bay
+3309,3546,Oregon State UC Santa Barbara
+3310,3547,USC
+3311,3548,Kansas
+3312,3549,Drake University
+3313,3550,TCU
+3314,3551,Bowling Green
+3315,3552,St. John's Duke
+3316,3553,St. John's
+3317,3554,NC State
+3318,3555,Maryland
+3319,3556,Columbia University
+3320,3557,Bradley
+3321,3558,Xavier
+3322,3559,Arizona State
+3323,3560,Santa Clara California
+3324,3561,San Francisco
+3325,3562,Marquette
+3326,3563,San Jose State
+3327,3564,UConn
+3328,3565,Saint Joseph's
+3329,3566,Marquette
+3330,3567,Purdue
+3331,3568,DePaul
+3332,3569,Montana State University Billings
+3333,3570,NC State
+3334,3571,Tennessee
+3335,3572,Miles College
+3336,3573,Duke
+3337,3574,Nebraska
+3338,3575,Cal State Long Beach
+3339,3576,Rhode Island
+3340,3578,Western Kentucky
+3341,3579,Kentucky
+3342,3580,Colorado
+3343,3581,Illinois
+3344,3582,Tennessee
+3345,3583,Dayton
+3346,3584,Long Island University
+3347,3586,Wichita State
+3348,3587,Villanova
+3349,3588,Duke
+3350,3590,Syracuse
+3351,3591,USC
+3352,3592,Duquesne
+3353,3593,Marquette
+3354,3594,Minnesota
+3355,3595,Auburn
+3356,3596,Illinois
+3357,3597,San Diego State
+3358,3598,George Washington
+3359,3599,Allan Hancock College Utah
+3360,3600,Kentucky
+3361,3601,Southern Illinois
+3362,3602,Tennessee State
+3363,3603,Utah State University
+3364,3604,Saint Mary's
+3365,3605,USC
+3366,3606,Hiram College
+3367,3607,Iowa State
+3368,3608,UCLA
+3369,3610,Houston
+3370,3612,LSU
+3371,3613,Texas A&M
+3372,3615,Texas
+3373,3616,BYU
+3374,3617,DePaul
+3375,3618,DePaul
+3376,3619,Minnesota
+3377,3620,Hamline University
+3378,3621,Western Illinois University
+3379,3622,Kansas
+3380,3625,Seattle University
+3381,3628,Cornell
+3382,3629,Utah
+3383,3630,Michigan State
+3384,3631,UNC
+3385,3632,Cincinnati
+3386,3633,Purdue
+3387,3634,Alabama
+3388,3635,Kentucky
+3389,3636,Toledo
+3390,3637,Syracuse
+3391,3638,Texas A&M TCU
+3392,3639,UNC
+3393,3640,Notre Dame
+3394,3641,George Mason Miami (FL)
+3395,3642,UNC
+3396,3644,Holy Cross
+3397,3645,Florida
+3398,3646,Arkansas
+3399,3647,Baylor
+3400,3648,UCLA
+3401,3649,Duquesne
+3402,3650,Duke
+3403,3651,Kentucky Arizona
+3404,3652,Western Kentucky
+3405,3653,Saint Mary's
+3406,3654,Michigan
+3407,3655,Louisiana UAB
+3408,3656,Louisiana Tech
+3409,3657,SMU
+3410,3658,South Carolina Providence
+3411,3659,USC
+3412,3661,Southeastern University Morehead State University
+3413,3662,Kentucky
+3414,3663,Toledo UCLA
+3415,3664,Louisville
+3416,3665,Ohio State
+3417,3666,Memphis
+3418,3668,Weber State Utah
+3419,3669,George Mason
+3420,3670,Baylor
+3421,3671,UC Santa Barbara
+3422,3672,Auburn Baylor
+3423,3673,Louisville
+3424,3674,Pearl River Community College Mississippi State
+3425,3675,Auburn
+3426,3676,Sam Houston State University
+3427,3677,Mercer University
+3428,3678,Purdue
+3429,3679,Alabama
+3430,3680,University of North Texas
+3431,3681,Iowa State
+3432,3682,Toledo
+3433,3683,Temple
+3434,3684,Rhode Island
+3435,3685,Pitt
+3436,3686,USC
+3437,3687,USC
+3438,3688,UNC
+3439,3689,UNLV
+3440,3690,Missouri State San Francisco
+3441,3691,Youngstown State University
+3442,3692,Kentucky
+3443,3693,UCLA
+3444,3694,Kansas
+3445,3696,Columbia University
+3446,3697,Chicago State Lewis (IL)
+3447,3698,Arkansas
+3448,3699,Northeast Community College UC-Davis
+3449,3700,Arizona
+3450,3702,Kentucky
+3451,3703,Winston-Salem State
+3452,3704,Georgetown
+3453,3705,NC State
+3454,3706,Westchester CC
+3455,3707,University of Texas Rio Grande Valley
+3456,3708,UNC
+3457,3709,Arkansas
+3458,3710,Meridian Community College
+3459,3711,Northwest Florida State College Morehead State University
+3460,3712,Villanova
+3461,3713,Air Force South Dakota Texas Tech
+3462,3714,Loyola Chicago
+3463,3715,SMU
+3464,3716,Purdue
+3465,3717,Saint Louis
+3466,3718,La Salle
+3467,3719,Texas
+3468,3720,Florida State
+3469,3721,West Virginia
+3470,3722,Nebraska
+3471,3723,University of Texas Rio Grande Valley
+3472,3724,Villanova Hiram Scott College
+3473,3725,Salem University West Virginia State University
+3474,3726,Cal State-Bakersfield Houston
+3475,3727,Tulsa
+3476,3728,Duke
+3477,3729,Murray State
+3478,3730,Oregon State
+3479,3731,Louisiana Tech
+3480,3732,Wake Forest
+3481,3733,Indiana
+3482,3734,Jacksonville University
+3483,3735,New Mexico Tech Boston College
+3484,3736,United States Naval Academy Pitt
+3485,3737,Auburn
+3486,3738,Michigan
+3487,3739,Arkansas
+3488,3740,Molloy
+3489,3741,Kansas
+3490,3742,Kansas
+3491,3743,Northwestern
+3492,3744,Iowa State
+3493,3745,Kentucky
+3494,3746,Maryland
+3495,3747,Gonzaga
+3496,3748,Canisius
+3497,3749,Loyola (MD)
+3498,3750,Idaho
+3499,3751,Georgia Tech
+3500,3752,Louisville
+3501,3753,Seton Hall
+3502,3754,Cal State Fullerton
+3503,3755,Seton Hall
+3504,3756,Northeastern University
+3505,3757,Syracuse
+3506,3759,Baylor
+3507,3760,Utah
+3508,3761,Texas-El Paso Mississippi State
+3509,3762,Purdue
+3510,3763,Georgetown
+3511,3765,Eastern Kentucky University
+3512,3767,San Francisco
+3513,3768,UCLA
+3514,3769,Vincennes University Kentucky
+3515,3770,Holy Cross
+3516,3771,Fordham
+3517,3772,Ohio State
+3518,3773,St. John's
+3519,3774,Duke
+3520,3775,Memphis Delta State University
+3521,3776,Rhode Island
+3522,3777,USC
+3523,3778,Dartmouth College
+3524,3779,Providence
+3525,3781,Denver
+3526,3782,Louisville
+3527,3783,Niagara University
+3528,3784,Manhattan University
+3529,3785,Florida
+3530,3786,Boston College
+3531,3788,Tennessee Technological University
+3532,3789,Jacksonville University
+3533,3790,University of California Irvine
+3534,3791,Rice University Virginia
+3535,3792,Notre Dame
+3536,3793,Washington
+3537,3794,Kentucky
+3538,3795,Iowa
+3539,3796,St. Bonaventure
+3540,3797,Iowa
+3541,3798,California
+3542,3799,Meridian Community College Shaw
+3543,3800,UCLA
+3544,3801,South Carolina
+3545,3802,Eastern Oklahoma State College Kansas State
+3546,3803,Detroit Mercy
+3547,3804,Wichita State
+3548,3806,Bucknell
+3549,3807,Temple
+3550,3808,Maryland
+3551,3809,Georgetown
+3552,3811,Little Rock
+3553,3812,Kansas
+3554,3813,Rutgers University
+3555,3814,Michigan UNC
+3556,3815,Auburn
+3557,3817,Louisville
+3558,3818,NYU
+3559,3820,Northern Illinois Iowa State
+3560,3821,Loyola Chicago
+3561,3822,University of Akron
+3562,3823,Butler County Community College TCU
+3563,3824,Oklahoma
+3564,3825,Clemson
+3565,3826,Wyoming
+3566,3827,Northwestern UNC
+3567,3828,UConn
+3568,3829,San Francisco
+3569,3830,San Jacinto College Hawaii
+3570,3831,Kentucky
+3571,3832,Santa Clara
+3572,3833,Cypress College UCLA
+3573,3834,DePaul Louisiana-Monroe
+3574,3835,Louisiana-Monroe
+3575,3836,Louisiana-Monroe
+3576,3837,UCLA
+3577,3839,Ohio University
+3578,3840,Georgia Tech
+3579,3841,La Salle Towson University
+3580,3842,Wofford College
+3581,3843,Tennessee State
+3582,3844,Kansas State
+3583,3846,Seton Hall
+3584,3847,Duquesne
+3585,3848,Duke
+3586,3849,Iowa
+3587,3850,Saint Joseph's
+3588,3851,Washington
+3589,3852,New Mexico
+3590,3853,Florida Gonzaga
+3591,3854,TCU
+3592,3855,Weber State
+3593,3856,Creighton Gonzaga
+3594,3857,BYU
+3595,3858,Vincennes University UNLV
+3596,3859,Vanderbilt
+3597,3860,Duke
+3598,3863,Drake University
+3599,3864,Ole Miss
+3600,3865,Stanford
+3601,3866,NC State
+3602,3867,Minnesota
+3603,3868,Georgia Tech
+3604,3869,Miami University
+3605,3870,Georgia
+3606,3871,Utah
+3607,3872,Richmond
+3608,3873,Mississippi State Kansas
+3609,3874,Columbia University
+3610,3875,LSU
+3611,3876,East Carolina University UConn
+3612,3877,Iowa State
+3613,3878,Syracuse
+3614,3879,Washington
+3615,3880,St. Bonaventure
+3616,3881,Wichita State Butler County Community College Kansas State Northwestern Oklahoma State University
+3617,3882,Indiana State University
+3618,3883,Saint Louis
+3619,3884,Notre Dame
+3620,3885,Cal State Fullerton
+3621,3886,Arizona State
+3622,3888,Tennessee
+3623,3889,Duquesne
+3624,3890,Arizona
+3625,3891,Florida
+3626,3892,Louisville
+3627,3894,UNC
+3628,3895,Kentucky
+3629,3896,Kentucky
+3630,3898,Georgia Tech
+3631,3899,Texas Tech
+3632,3900,Green Bay
+3633,3901,Saint Louis
+3634,3902,Hamline University
+3635,3903,Arizona
+3636,3904,Illinois
+3637,3905,Jackson State University
+3638,3906,Oregon City College of San Francisco UC Santa Barbara
+3639,3907,Auburn University of West Florida
+3640,3908,Jackson State University
+3641,3909,Gonzaga
+3642,3910,Alcorn State
+3643,3911,Wyoming
+3644,3912,Duquesne
+3645,3913,Loyola Chicago
+3646,3914,Marquette
+3647,3915,Washington
+3648,3916,Little Rock Kansas State
+3649,3917,Ohio State
+3650,3920,Illinois Oakland
+3651,3921,UC Santa Barbara
+3652,3923,TCU
+3653,3924,Cal Poly
+3654,3925,Louisville
+3655,3926,Liberty
+3656,3927,UCLA
+3657,3928,UCLA
+3658,3929,Colorado State
+3659,3930,Pepperdine
+3660,3931,San Diego State
+3661,3932,Maryland
+3662,3933,Boston College
+3663,3934,Butler
+3664,3935,LSU
+3665,3936,Bradley
+3666,3937,Holy Cross
+3667,3938,Loyola (MD)
+3668,3939,Georgetown
+3669,3940,Villanova
+3670,3941,Santa Clara
+3671,3942,Georgetown
+3672,3943,UNC
+3673,3944,Manhattan University
+3674,3946,LSU
+3675,3947,Denver Baylor
+3676,3948,California
+3677,3949,Norfolk State
+3678,3950,Notre Dame
+3679,3951,Tennessee
+3680,3952,Fordham
+3681,3953,Virginia Union University
+3682,3955,Villanova
+3683,3956,Ohio State
+3684,3957,Rhode Island
+3685,3958,Santa Clara
+3686,3959,Santa Clara
+3687,3960,UAB
+3688,3961,Illinois
+3689,3963,Duke SMU
+3690,3964,UConn
+3691,3965,Duke
+3692,3966,Auburn
+3693,3968,Georgia Tech
+3694,3969,USC
+3695,3970,Auburn
+3696,3971,Stanford
+3697,3973,Indiana
+3698,3974,Houston
+3699,3975,Minnesota
+3700,3976,University of California Riverside
+3701,3977,Seattle University
+3702,3978,Western Kentucky
+3703,3979,Seattle University
+3704,3980,Rice University Xavier
+3705,3981,Villanova
+3706,3982,Georgia Tech
+3707,3983,Nevada
+3708,3984,Iowa
+3709,3985,Purdue
+3710,3986,UConn
+3711,3987,Drake University
+3712,3988,University of the Pacific
+3713,3989,Louisville
+3714,3990,Gonzaga
+3715,3991,Rutgers University Oregon
+3716,3992,Yale
+3717,3993,Syracuse
+3718,3994,Louisville
+3719,3995,Saint Louis
+3720,3996,Beloit College
+3721,3997,Syracuse
+3722,3998,Oregon State
+3723,3999,Kentucky
+3724,4000,Western Kentucky
+3725,4002,Illinois
+3726,4003,Kansas
+3727,4004,Arizona
+3728,4005,Bowling Green
+3729,4006,Bowling Green
+3730,4007,Minnesota
+3731,4008,Kansas
+3732,4009,South Plains College Houston
+3733,4011,East Central University
+3734,4012,La Salle
+3735,4013,Indiana Houston
+3736,4014,Syracuse
+3737,4015,Tulane Texas
+3738,4016,UNLV
+3739,4017,Arizona State
+3740,4018,UCLA
+3741,4019,Oral Roberts
+3742,4020,Baylor
+3743,4021,Tennessee St. John's Texas Tech
+3744,4022,South Carolina
+3745,4023,Arizona
+3746,4025,Coppin State University
+3747,4027,USC
+3748,4028,Tennessee Technological University
+3749,4029,UNLV
+3750,4030,Kentucky
+3751,4031,USC
+3752,4032,College of Southern Idaho Moberly Area Community College West Virginia
+3753,4033,UNC
+3754,4034,Westminster College of Pennsylvania
+3755,4035,Midland College Colorado State
+3756,4036,Holy Cross
+3757,4037,Princeton
+3758,4038,DePaul
+3759,4039,Dayton
+3760,4040,North Dakota State College of Science Chicago State
+3761,4041,Dartmouth College
+3762,4042,Gonzaga
+3763,4043,Lebanon Valley College
+3764,4046,Arkansas
+3765,4047,Gonzaga
+3766,4048,Texas Wesleyan University
+3767,4049,Centenary (LA)
+3768,4050,Missouri
+3769,4051,Bradley
+3770,4052,Duke
+3771,4053,Fordham
+3772,4054,Texas A&M
+3773,4056,Virginia
+3774,4057,Kentucky
+3775,4058,Idaho State University
+3776,4059,Duke
+3777,4060,Saint Louis
+3778,4061,Kansas State
+3779,4062,Oklahoma State
+3780,4063,Western Kentucky
+3781,4064,Florida
+3782,4065,Fordham Villanova
+3783,4068,Santa Clara
+3784,4069,St. John's
+3785,4070,Auburn
+3786,4071,Illinois
+3787,4072,Indiana
+3788,4073,Toledo
+3789,4074,Pitt
+3790,4075,Kentucky
+3791,4076,Cincinnati
+3792,4077,UCLA
+3793,4078,Ouachita Baptist University
+3794,4079,UConn
+3795,4080,Creighton
+3796,4081,Illinois
+3797,4082,Wake Forest
+3798,4083,Northeastern State University
+3799,4084,Manhattan University
+3800,4085,Cameron University St. John's
+3801,4087,Dayton
+3802,4088,Dayton
+3803,4089,Notre Dame
+3804,4090,Bowling Green
+3805,4091,Michigan State
+3806,4092,Murray State
+3807,4093,Louisville
+3808,4094,Kentucky
+3809,4095,Louisiana
+3810,4096,Oregon State
+3811,4097,Oregon State
+3812,4098,Tulane
+3813,4099,Indiana State University
+3814,4100,Indiana State University
+3815,4101,Texas Tech TCU Georgetown
+3816,4103,Mississippi State
+3817,4104,Florida Louisiana Tech
+3818,4105,Missouri
+3819,4106,Iowa
+3820,4108,Manhattan University
+3821,4110,Buffalo
+3822,4111,Master's College
+3823,4113,Merced College Fresno State
+3824,4114,Utah State University
+3825,4115,Wisconsin
+3826,4116,Michigan State
+3827,4117,Vanderbilt
+3828,4120,UNC
+3829,4121,Tulane
+3830,4123,Virginia
+3831,4124,Bethune-Cookman College
+3832,4125,Missouri State
+3833,4126,Memphis
+3834,4127,Mississippi State
+3835,4128,Virginia Tech
+3836,4129,Temple
+3837,4130,Auburn
+3838,4131,Auburn
+3839,4132,Tennessee Technological University Arkansas Tech University Liberty
+3840,4133,Valparaiso
+3841,4134,Minnesota
+3842,4135,Oregon State
+3843,4136,Oregon
+3844,4137,Rice University USC
+3845,4138,Cornell
+3846,4139,Wheaton College
+3847,4140,Michigan State
+3848,4141,Princeton
+3849,4144,Gonzaga
+3850,4145,Loyola Marymount UCLA
+3851,4146,LSU
+3852,4147,Northwood University
+3853,4148,Bradley
+3854,4149,DePaul
+3855,4150,La Salle
+3856,4151,UNC
+3857,4152,Alcorn State
+3858,4153,Illinois
+3859,4154,Alabama
+3860,4155,Houston
+3861,4156,SMU
+3862,4157,Tennessee
+3863,4158,Southern University and A&M College
+3864,4159,Nebraska
+3865,4160,Bowling Green
+3866,4161,Siena College Penn State
+3867,4162,Georgetown
+3868,4163,Kansas
+3869,4164,Walla Walla Community College Rice University
+3870,4165,Auburn
+3871,4167,Wyoming
+3872,4168,Villanova
+3873,4169,Nevada
+3874,4170,Villanova
+3875,4171,UNC
+3876,4172,Xavier
+3877,4173,La Salle
+3878,4174,University of Central Arkansas
+3879,4175,Vanderbilt
+3880,4176,Maryland
+3881,4177,Texas
+3882,4180,Bowling Green
+3883,4181,Duke
+3884,4182,Duke
+3885,4183,Duke
+3886,4184,Boston University
+3887,4186,Illinois Santa Clara
+3888,4187,Utah
+3889,4190,UNLV Pepperdine
+3890,4191,Stanford
+3891,4192,Kansas
+3892,4193,Whitworth
+3893,4194,Virginia
+3894,4195,Cal State Long Beach
+3895,4196,Washington
+3896,4197,St. John's
+3897,4198,Tennessee
+3898,4199,Michigan
+3899,4200,Norfolk State
+3900,4201,Washington Kentucky
+3901,4202,UNC
+3902,4203,Central Michigan University
+3903,4204,Auburn
+3904,4205,Vincennes University Wichita State
+3905,4206,Villanova
+3906,4207,Missouri
+3907,4208,Saint Francis University
+3908,4209,USC
+3909,4210,Missouri
+3910,4211,Georgetown
+3911,4212,University of Wisconsin-Stevens Point
+3912,4213,Tennessee State
+3913,4214,Arkansas
+3914,4215,Creighton
+3915,4217,Xavier
+3916,4218,Mississippi State Boston College
+3917,4219,St. John's
+3918,4220,Bethune-Cookman College
+3919,4221,Wright State University
+3920,4222,Ohio State Wisconsin
+3921,4223,California
+3922,4224,University of Portland
+3923,4225,UNC
+3924,4226,Stanford
+3925,4227,NC State
+3926,4228,Texas Tech
+3927,4229,Seton Hall
+3928,4230,UCLA
+3929,4231,Illinois
+3930,4232,Kentucky
+3931,4233,Dillard University
+3932,4234,Kentucky
+3933,4235,Western Texas College Tulsa
+3934,4236,Missouri
+3935,4237,Boston College
+3936,4238,Villanova
+3937,4239,Ohio University
+3938,4240,UNC
+3939,4241,UConn
+3940,4242,South Carolina Oklahoma
+3941,4243,Louisville
+3942,4244,Georgia Tech
+3943,4245,Illinois
+3944,4246,Nicholls State Utah Valley
+3945,4247,Penn
+3946,4248,New Mexico State
+3947,4250,Alabama
+3948,4251,Baylor
+3949,4252,Kentucky
+3950,4253,Drake University
+3951,4254,Kansas
+3952,4255,Oregon
+3953,4256,Duke
+3954,4257,Maryland
+3955,4258,Clemson Marquette
+3956,4259,USC
+3957,4260,Minnesota
+3958,4261,Ohio State
+3959,4262,SMU
+3960,4263,McNeese State University
+3961,4264,Kansas State
+3962,4265,University of California Riverside Florida
+3963,4266,UConn
+3964,4267,Colorado
+3965,4269,LSU
+3966,4270,Maryland
+3967,4271,College of Marin New Mexico Military Institute New Mexico State
+3968,4272,Utah State University
+3969,4273,Xavier
+3970,4274,Kentucky
+3971,4275,Notre Dame
+3972,4276,Washington State
+3973,4277,Memphis
+3974,4278,California
+3975,4279,Xavier
+3976,4280,Long Island University
+3977,4281,Oregon State
+3978,4282,Indiana
+3979,4285,Barton County Community College
+3980,4286,Indiana
+3981,4287,Wyoming
+3982,4289,Saint Joseph's
+3983,4290,Northwestern
+3984,4291,Villanova
+3985,4292,University of South Alabama
+3986,4294,Santa Clara
+3987,4296,NYU
+3988,4297,Kentucky
+3989,4298,Texas Tech
+3990,4299,Bradley
+3991,4300,Kansas
+3992,4301,Stanford
+3993,4302,Kentucky
+3994,4303,LSU
+3995,4304,Duke
+3996,4305,Michigan State
+3997,4306,San Jose State
+3998,4307,Ohio State
+3999,4308,NC State
+4000,4309,Western Kentucky
+4001,4310,Oregon
+4002,4311,Florida State
+4003,4313,Cal State Long Beach
+4004,4314,University of Wisconsin-Eau Claire
+4005,4315,Wyoming
+4006,4316,Syracuse
+4007,4317,Minnesota Syracuse
+4008,4318,Villanova
+4009,4319,Oklahoma
+4010,4320,Western Kentucky
+4011,4321,Jacksonville University
+4012,4322,Toledo
+4013,4323,Indiana
+4014,4324,BYU
+4015,4325,Stanford
+4016,4326,Centenary (LA)
+4017,4327,Lee College LSU
+4018,4328,Wichita State Oklahoma
+4019,4329,Bethel College
+4020,4330,Penn State
+4021,4332,Washington
+4022,4333,Ohio State
+4023,4334,Duke
+4024,4335,Syracuse
+4025,4336,Duke
+4026,4337,San Francisco
+4027,4338,Miami (FL)
+4028,4339,Oklahoma City University
+4029,4340,Ole Miss
+4030,4341,DePaul
+4031,4342,Notre Dame
+4032,4343,Saint Louis
+4033,4344,Grambling State University
+4034,4345,Alabama
+4035,4346,Illinois State Kentucky
+4036,4347,Oklahoma State
+4037,4348,Arizona
+4038,4349,Seton Hall
+4039,4350,Wisconsin
+4040,4351,New Mexico San Francisco
+4041,4352,Georgetown
+4042,4353,UNC
+4043,4354,Winston-Salem State
+4044,4355,LSU
+4045,4356,St. Mary's University
+4046,4357,Florida State
+4047,4358,Iowa
+4048,4359,NYU
+4049,4360,Michigan
+4050,4361,Texas
+4051,4362,Drake University
+4052,4363,Notre Dame
+4053,4365,Michigan State
+4054,4366,San Francisco
+4055,4367,Tulane
+4056,4368,Houston
+4057,4369,LSU
+4058,4370,Rice University
+4059,4371,Seton Hall
+4060,4372,Western Kentucky
+4061,4373,Kentucky USC
+4062,4374,Michigan
+4063,4375,Georgia Tech
+4064,4376,Florida
+4065,4377,Belmont Florida
+4066,4378,Kentucky
+4067,4379,Seattle University
+4068,4380,Michigan State
+4069,4381,Michigan State
+4070,4382,Delta State University
+4071,4383,Tennessee
+4072,4384,Syracuse
+4073,4385,Montana
+4074,4386,Hofstra
+4075,4387,UCLA
+4076,4388,DePaul
+4077,4389,Moberly Area Community College Kansas State
+4078,4390,NC State
+4079,4391,Duquesne
+4080,4392,UNLV
+4081,4393,California
+4082,4394,Oregon
+4083,4395,College of Wooster
+4084,4396,Duke
+4085,4397,Tulane
+4086,4399,South Carolina
+4087,4400,Mount St. Mary's University
+4088,4401,Michigan
+4089,4402,Kentucky
+4090,4403,USC
+4091,4404,Illinois
+4092,4405,College of Charleston
+4093,4406,Saint Peter's College
+4094,4407,Providence
+4095,4409,Eastern Kentucky University Ohio State
+4096,4410,Eastern Kentucky University
+4097,4411,Temple
+4098,4412,Duke
+4099,4413,Notre Dame
+4100,4414,Marquette
+4101,4415,Colorado
+4102,4416,Drake University Minnesota Vanderbilt
+4103,4417,Chipola College Tennessee
+4104,4418,Colorado
+4105,4419,Florida
+4106,4420,Cincinnati
+4107,4421,Fresno State
+4108,4422,Oral Roberts
+4109,4423,Wyoming
+4110,4424,Dayton
+4111,4425,BYU
+4112,4426,Ohio State
+4113,4427,Baylor Mississippi State
+4114,4428,Utah State University
+4115,4429,LSU
+4116,4430,Arkansas
+4117,4431,Cincinnati
+4118,4432,Kansas
+4119,4433,West Virginia
+4120,4434,Kentucky
+4121,4435,Michigan
+4122,4436,Western Kentucky
+4123,4437,USC
+4124,4438,UConn
+4125,4439,United States Naval Academy
+4126,4440,Florida
+4127,4441,Williams Michigan
+4128,4442,University of Central Oklahoma
+4129,4443,Southern Illinois Casper College Wyoming
+4130,4444,Purdue
+4131,4445,Michigan
+4132,4446,UNLV
+4133,4447,Virginia
+4134,4448,Alabama
+4135,4449,Boston College
+4136,4450,Virginia Tech
+4137,4451,Centenary (LA)
+4138,4452,Western Kentucky
+4139,4453,Washington
+4140,4454,UAB
+4141,4455,Fresno State
+4142,4456,Memphis
+4143,4457,Michigan
+4144,4458,Pasadena City College Cal State Long Beach
+4145,4459,Kansas
+4146,4460,Tennessee State
+4147,4461,Virginia Tech
+4148,4462,West Virginia
+4149,4463,Villanova
+4150,4464,DePaul
+4151,4465,Kansas
+4152,4466,Nebraska
+4153,4467,Hawaii Oregon State
+4154,4468,South Carolina
+4155,4469,USC
+4156,4470,California
+4157,4471,Colorado State
+4158,4472,Temple
+4159,4473,North Central Texas College Southeastern Oklahoma State University
+4160,4475,UMass
+4161,4476,Little Rock Tennessee State
+4162,4477,Saint Louis
+4163,4478,Stanford University of California Irvine
+4164,4479,University of Texas Rio Grande Valley
+4165,4480,Wake Forest
+4166,4481,Alabama
+4167,4482,Oklahoma
+4168,4483,Long Island University
+4169,4484,NC State
+4170,4485,Kentucky
+4171,4486,Louisville
+4172,4487,Toledo
+4173,4488,Clemson
+4174,4489,Washington
+4175,4490,Kentucky
+4176,4491,Arkansas State University
+4177,4492,Arizona
+4178,4493,Memphis
+4179,4494,Michigan
+4180,4495,Drexel
+4181,4496,George Mason
+4182,4497,Saint Joseph's
+4183,4498,UNC
+4184,4499,City College of New York
+4185,4500,Notre Dame
+4186,4501,SMU
+4187,4502,Washington
+4188,4503,Tennessee
+4189,4504,Wisconsin
+4190,4505,Long Island University
+4191,4506,Loyola Chicago
+4192,4507,Central Michigan University
+4193,4508,Kansas
+4194,4509,Notre Dame St. John's
+4195,4510,UCLA
+4196,4511,Cal State Fullerton
+4197,4512,Purdue
+4198,4513,State University of New York at Potsdam
+4199,4514,UNC Wilmington
+4200,4515,Washington
+4201,4516,Notre Dame
+4202,4517,Florida State
+4203,4518,Indiana State University
+4204,4519,UNC Louisville
+4205,4520,Louisville
+4206,4522,Iowa
+4207,4523,Wake Forest
+4208,4524,McNeese State University
+4209,4526,USC
+4210,4527,Tulsa
+4211,4528,Hawaii
+4212,4529,Cerritos College BYU
+4213,4530,Northwestern
+4214,4531,Iona College
+4215,4532,Riverside Community College Colorado State
+4216,4533,Temple
+4217,4536,Kansas
+4218,4537,Missouri
+4219,4538,San Francisco
+4220,4539,Cal State Long Beach
+4221,4540,Michigan
+4222,4541,Michigan
+4223,4542,Ohio State
+4224,4543,Detroit Mercy
+4225,4544,Kansas
+4226,4545,Labette Community College University of North Texas
+4227,4546,Houston Western Michigan
+4228,4547,Jacksonville State University
+4229,4548,Notre Dame Vanderbilt Chattanooga
+4230,4550,Gonzaga
+4231,4551,Gonzaga
+4232,4552,Seton Hall
+4233,4553,Wyoming
+4234,4555,Georgia Tech
+4235,4556,Gonzaga Wake Forest
+4236,4557,Miami (FL)
+4237,4558,South Carolina
+4238,4559,UNC
+4239,4563,LSU
+4240,4564,St. John's
+4241,4565,California
+4242,4566,Virginia
+4243,4567,Villanova
+4244,4568,Louisville
+4245,4569,Temple
+4246,4570,LSU
+4247,4571,Southern University and A&M College
+4248,4572,Georgia Southern University
+4249,4573,Cal Poly Nevada
+4250,4574,VCU
+4251,4575,Seward County Community College Oklahoma State
+4252,4576,UCLA
+4253,4577,NYU
+4254,4578,New Mexico
+4255,4579,UConn
+4256,4580,New Mexico Saint Vincent College
+4257,4581,Iona College
+4258,4583,Loyola Chicago
+4259,4587,Wake Forest Kentucky
+4260,4588,Texas Tech
+4261,4589,SMU
+4262,4590,Houston
+4263,4592,Cincinnati
+4264,4593,Seton Hall
+4265,4594,Texas Southern
+4266,4595,Louisiana-Monroe
+4267,4596,Syracuse
+4268,4597,LeMoyne College
+4269,4598,UAB Hawaii
+4270,4599,UCLA
+4271,4600,USC
+4272,4601,Oregon
+4273,4602,LSU
+4274,4603,University of Wisconsin-Eau Claire
+4275,4604,Northwestern
+4276,4605,Indiana
+4277,4606,St. John's
+4278,4607,Villanova
+4279,4608,San Diego State
+4280,4609,Seton Hall
+4281,4610,Saint Louis
+4282,4611,West Virginia
+4283,4612,Syracuse
+4284,4613,NYU
+4285,4614,Long Island University
+4286,4615,Purdue
+4287,4616,Purdue
+4288,4617,South Dakota State Creighton
+4289,4618,Purdue
+4290,4619,Georgia Tech
+4291,4620,Long Island University
+4292,4621,Florida
+4293,4622,Colorado State
+4294,4623,Kansas
+4295,4624,Ohio State
+4296,4625,Chattanooga
+4297,4626,Tennessee
+4298,4627,Illinois
+4299,4628,Valparaiso
+4300,4629,Washington
+4301,4631,Hamline University
+4302,4632,Wisconsin
+4303,4633,Vanderbilt
+4304,4634,Richmond
+4305,4636,San Francisco
+4306,4637,Oral Roberts
+4307,4638,Rice University
+4308,4639,Arizona State
+4309,4640,UNC
+4310,4641,Georgia Tech
+4311,4642,St. John's
+4312,4643,Virginia
+4313,4644,New York City College of Technology University of Portland
+4314,4645,St. John's
+4315,4646,Cincinnati
+4316,4647,Alabama State University
+4317,4648,Cal Poly Pomona
+4318,4649,John A. Logan College
+4319,4650,Long Island University
+4320,4651,NC State
+4321,4652,Xavier University of Louisiana
+4322,4653,Tulsa
+4323,4654,St. John's
+4324,4655,St. John's
+4325,4656,Santa Clara
+4326,4657,Ohio University Alabama
+4327,4658,Northern Arizona University
+4328,4660,Syracuse
+4329,4661,Wisconsin
+4330,4662,Kansas
+4331,4663,Kansas
+4332,4664,Wisconsin Ohio State
+4333,4665,Rutgers University
+4334,4666,Hamline University
+4335,4667,Truman State University
+4336,4668,Furman University
+4337,4669,USC
+4338,4671,Saint Joseph's
+4339,4673,Ohio State
+4340,4675,Ole Miss
+4341,4676,Nevada
+4342,4678,Lamar
+4343,4679,Alabama
+4344,4680,Toledo
+4345,4682,UCLA
+4346,4683,NC State
+4347,4684,Alabama
+4348,4685,UNC
+4349,4686,Arizona
+4350,4687,Wichita State
+4351,4688,Providence
+4352,4689,Rhode Island
+4353,4690,University of North Texas Kansas State
+4354,4691,Texas Tech Illinois
+4355,4692,Bowling Green
+4356,4693,USC
+4357,4694,UNC
+4358,4695,Kentucky
+4359,4696,Mississippi State UAB
+4360,4697,Minnesota
+4361,4698,NC State
+4362,4699,Saint Mary's UC Santa Barbara
+4363,4700,Toledo
+4364,4701,Virginia Iowa State
+4365,4702,Rhode Island
+4366,4703,Houston
+4367,4704,Utah
+4368,4705,Georgetown
+4369,4706,Oregon State
+4370,4708,Butler
+4371,4709,Belmont
+4372,4710,Kentucky
+4373,4711,Kentucky
+4374,4712,Maryland
+4375,4713,VCU
+4376,4714,Catholic University of America
+4377,4715,Iowa State
+4378,4716,Jackson State University
+4379,4717,Jackson State University
+4380,4718,University of South Alabama
+4381,4719,Ohio University
+4382,4720,Maryland
+4383,4721,Notre Dame
+4384,4722,Georgia Tech
+4385,4724,New Mexico State
+4386,4725,Ohio State Dayton
+4387,4726,Kentucky State University
+4388,4727,Northwestern
+4389,4728,Purdue
+4390,4729,Oklahoma
+4391,4730,Ohio State
+4392,4731,Dakota Wesleyan University
+4393,4732,Illinois Wesleyan University
+4394,4733,Stephen F. Austin
+4395,4734,Creighton
+4396,4735,Colorado Northern Illinois
+4397,4736,Augusta State University
+4398,4737,United States Military Academy
+4399,4738,South Carolina
+4400,4739,Kansas
+4401,4740,LSU
+4402,4741,DePaul
+4403,4742,NC State
+4404,4744,Nebraska
+4405,4745,NYU
+4406,4746,Houston
+4407,4747,Arizona
+4408,4748,La Salle
+4409,4749,Arizona
+4410,4750,Benedict College
+4411,4753,Providence
+4412,4754,Colorado
+4413,4755,Michigan State
+4414,4756,Michigan
+4415,4757,Louisville
+4416,4758,Pepperdine
+4417,4759,Michigan
+4418,4760,Kent State University
+4419,4761,Georgetown
+4420,4762,UNC Wilmington
+4421,4763,Texas
+4422,4764,Missouri
+4423,4765,Duke
+4424,4766,Virginia
+4425,4767,Florida State
+4426,4768,Murray State
+4427,4769,UAB
+4428,4770,Niagara University
+4429,4772,Oregon State
+4430,4773,Louisville
+4431,4774,Cal State Northridge
+4432,4775,Michigan State
+4433,4776,UMass
+4434,4777,Baylor
+4435,4778,University of Maryland Eastern Shore
+4436,4779,Minnesota
+4437,4780,Kenyon College
+4438,4781,Wyoming
+4439,4782,South Carolina
+4440,4783,University of Portland
+4441,4784,Furman University
+4442,4785,Marshall
+4443,4786,Texas A&M
+4444,4787,University of Evansville
+4445,4789,Notre Dame
+4446,4791,East Carolina University Oklahoma State West Virginia
+4447,4792,LSU
+4448,4793,Indiana
+4449,4794,Oklahoma State
+4450,4795,Appalachian State University
+4451,4796,Illinois
+4452,4797,Northeast Mississippi Community College Kentucky
+4453,4798,Bradley
+4454,4799,Saint Peter's College
+4455,4800,Syracuse
+4456,4801,Tulsa
+4457,4802,West Virginia
+4458,4803,Pitt
+4459,4804,Georgetown
+4460,4805,New Mexico
+4461,4806,UConn
+4462,4807,Manhattan University Louisville
+4463,4808,Ohio State Cleveland State University
+4464,4809,Boston College
+4465,4810,Utah
+4466,4811,NC State
+4467,4812,Louisville
+4468,4813,Minnesota
+4469,4814,Dayton
+4470,4815,Southeastern Illinois College
+4471,4816,Missouri
+4472,4817,University of Evansville Missouri
+4473,4818,Harvard University
+4474,4819,Kentucky State University
+4475,4820,Eastern Kentucky University
+4476,4821,Western Kentucky
+4477,4822,Fresno State
+4478,4823,Wake Forest
+4479,4824,North Carolina A&T
+4480,4825,LSU
+4481,4826,Auburn
+4482,4827,Maryland
+4483,4828,Colorado State
+4484,4829,Louisville
+4485,4830,Ohio State
+4486,4831,Maryland
+4487,4832,University of Southern Colorado
+4488,4834,Loyola Marymount
+4489,4835,Lon Morris College Tulsa
+4490,4836,UNC
+4491,4837,Louisville
+4492,4838,Alcorn State
+4493,4840,BYU
+4494,4841,Providence
+4495,4842,Louisiana-Monroe
+4496,4843,Arkansas
+4497,4844,Duke
+4498,4845,Jacksonville University
+4499,4846,Valdosta State University
+4500,4847,San Francisco
+4501,4848,Buffalo State
+4502,4849,TCU
+4503,4850,UNLV
+4504,4851,Louisville
+4505,4852,Louisville Kentucky Wesleyan College
+4506,4853,UNLV
+4507,4854,Michigan State
+4508,4855,La Salle
+4509,4856,Arizona State
+4510,4857,NC State
+4511,4858,Ball State University
+4512,4859,Western Kentucky Mississippi State
+4513,4860,Marquette
+4514,4862,Missouri
+4515,4863,Texas Tech
+4516,4864,Marist College
+4517,4865,Canisius
+4518,4866,Niagara University
+4519,4867,Kansas State
+4520,4868,New Mexico
+4521,4869,Michigan State
+4522,4870,Davidson
+4523,4871,Nevada
+4524,4872,Notre Dame
+4525,4873,UNLV
+4526,4874,DePaul
+4527,4875,Baylor
+4528,4876,Utah
+4529,4877,Weber State
+4530,4878,Clemson
+4531,4879,Duquesne
+4532,4880,Wake Forest
+4533,4881,Ohio State
+4534,4882,Syracuse
+4535,4883,Detroit Mercy
+4536,4884,Cal State Fullerton
+4537,4885,Houston
+4538,4886,Louisville
+4539,4887,Duke
+4540,4889,Vincennes University Weber State
+4541,4890,Detroit Mercy
+4542,4891,Villanova
+4543,4892,Western Kentucky
+4544,4893,Villanova
+4545,4894,Florida
+4546,4895,Villanova
+4547,4896,Northern Arizona University
+4548,4897,Loyola (MD) Rutgers University UConn
+4549,4898,Georgia UNLV
+4550,4899,Louisville
+4551,4900,Loyola (MD) Northwestern
+4552,4901,Syracuse
+4553,4902,Tulane
+4554,4904,Western Kentucky
+4555,4905,Virginia Union University
+4556,4906,Three Rivers Community College Alabama
+4557,4907,Howard University
+4558,4908,Tennessee
+4559,4910,Rice University
+4560,4911,South Carolina
+4561,4912,UNC
+4562,4913,Holy Cross Providence
+4563,4914,North Carolina A&T Cheyney (PA)
+4564,4915,Kansas
+4565,4916,Wichita State
+4566,4918,Duke
+4567,4919,Temple
+4568,4920,Northern Oklahoma College Oklahoma Junior College Oklahoma State
+4569,4921,Pitt
+4570,4922,Michigan
+4571,4923,Thomas More College
+4572,4924,Kentucky
+4573,4925,Michigan State
+4574,4927,Memphis
+4575,4928,Purdue
+4576,4929,Notre Dame
+4577,4930,Colorado Little Rock
+4578,4931,Cincinnati
+4579,4932,UNC USC
+4580,4933,Georgia Tech
+4581,4934,Iowa State
+4582,4935,Colorado State
+4583,4936,Penn State
+4584,4937,Cincinnati
+4585,4939,Michigan
+4586,4940,Washington
+4587,4941,UNLV Cal State-Bakersfield
+4588,4942,Coppin State University
+4589,4943,California
+4590,4944,Missouri
+4591,4945,Wisconsin
+4592,4946,Missouri
+4593,4947,Virginia
+4594,4948,St. Bonaventure
+4595,4949,St. Bonaventure
+4596,4950,Creighton Colorado
+4597,4951,Gonzaga
+4598,4952,Gonzaga
+4599,4954,Arizona
+4600,4955,Iowa
+4601,4956,Tennessee
+4602,4957,Saint Francis University
+4603,4958,Detroit Mercy
+4604,4959,Washington State
+4605,4960,Maryland
+4606,4961,Marshall
+4607,4962,Texas-El Paso
+4608,4963,Illinois Arizona State
+4609,4964,Arizona
+4610,4965,Arizona
+4611,4967,Pratt Community College Arizona State
+4612,4968,Maryland
+4613,4969,Bradley
+4614,4970,Gonzaga
+4615,4971,University of the Pacific
+4616,4972,Nebraska
+4617,4973,Temple
+4618,4974,DePaul
+4619,4975,Jacksonville University
+4620,4976,Montana
+4621,4977,Xavier
+4622,4978,Christopher Newport University
+4623,4979,Ole Miss
+4624,4980,Mississippi State
+4625,4981,Lewis (IL) DePaul
+4626,4982,Eastern Washington
+4627,4983,DePaul
+4628,4984,Rhode Island
+4629,4985,Gonzaga
+4630,4986,Midwestern State University
+4631,4987,Ohio State
+4632,4988,Georgetown
+4633,4989,Xavier
+4634,4990,Louisville Austin Peay State University
+4635,4991,Illinois
+4636,4993,Missouri
+4637,4994,Florida State
+4638,4995,Long Island University
+4639,4996,La Salle
+4640,4997,Pepperdine
+4641,4998,Oral Roberts
+4642,4999,University of the Pacific
+4643,5000,Texas Southern
+4644,5001,Purdue
+4645,5002,Detroit Mercy
+4646,5003,Morehead State University
+4647,5004,Georgetown
+4648,5005,Villanova Syracuse
+4649,5007,East Tennessee State University
+4650,5008,LSU
+4651,5009,Auburn
+4652,5010,Mississippi State
+4653,5012,Western Kentucky
+4654,5013,Green Bay
+4655,5014,Xavier
+4656,5015,Augustana College (SD)
+4657,5016,Miami University
+4658,5017,George Washington
+4659,5019,Brigham Young University Hawaii
+4660,5020,Pitt
+4661,5021,NYU
+4662,5023,Michigan
+4663,5024,Bradley
+4664,5025,Ohio State
+4665,5026,Marquette
+4666,5027,Duke
+4667,5029,Oregon
+4668,5030,Princeton
+4669,5031,Okaloosa-Walton Community College UAB
+4670,5032,Dodge City Community College La Salle
+4671,5033,University of Texas Rio Grande Valley
+4672,5034,Texas
+4673,5035,Eastern Illinois University
+4674,5036,Texas Tech
+4675,5037,Vanderbilt
+4676,5038,Central Florida
+4677,5039,Indian Hills Community College Chattanooga
+4678,5040,California
+4679,5041,Michigan
+4680,5042,Chipola College Iowa State
+4681,5043,San Jacinto College Houston
+4682,5044,USC
+4683,5045,Austin Peay State University
+4684,5046,Kansas
+4685,5047,Duke
+4686,5048,Baylor
+4687,5049,Wake Forest
+4688,5050,Kentucky
+4689,5053,Northeastern University Butler
+4690,5054,LSU
+4691,5055,LSU
+4692,5057,SMU
+4693,5058,Rhode Island
+4694,5059,Winston-Salem State
+4695,5060,Cal State Long Beach
+4696,5061,Stanford
+4697,5062,Arizona
+4698,5063,Lincoln Memorial
+4699,5064,Arizona
+4700,5065,Stanford
+4701,5066,Michigan
+4702,5067,UConn
+4703,5068,Cincinnati
+4704,5069,Kentucky State University
+4705,5071,UNLV
+4706,5072,Saint Mary's
+4707,5073,Hofstra
+4708,5074,Kentucky Arkansas
+4709,5075,Mott Community College Weber State
+4710,5076,Bradley
+4711,5077,Memphis
+4712,5078,Kansas
+4713,5079,Truman State University
+4714,5080,LSU
+4715,5081,Eastern Michigan
+4716,5082,Eastern Michigan
+4717,5083,Syracuse
+4718,5084,Kentucky Florida State
+4719,5085,Washington
+4720,5086,Indiana
+4721,5087,Providence
+4722,5088,Texas
+4723,5089,Indiana
+4724,5090,Marquette
+4725,5091,Minnesota
+4726,5092,New Mexico
+4727,5093,Creighton
+4728,5094,TCU
+4729,5095,Duke
+4730,5096,Pepperdine San Diego State
+4731,5097,Iowa State
+4732,5098,Trinity Valley CC Louisville
+4733,5099,Detroit Mercy
+4734,5100,Villanova
+4735,5101,LSU
+4736,5102,Harbor College
+4737,5103,Georgia
+4738,5106,Fresno State
+4739,5107,Louisville
+4740,5108,Texas A&M Oklahoma State
+4741,5109,UConn
+4742,5110,NC State
+4743,5111,UCLA
+4744,5112,Oregon State
+4745,5113,Marquette
+4746,5114,Georgetown
+4747,5115,South Carolina
+4748,5116,Rider University
+4749,5117,Providence
+4750,5118,NC State
+4751,5119,Washington State
+4752,5120,Texas
+4753,5121,Minnesota
+4754,5122,Pepperdine
+4755,5123,Tulane
+4756,5124,Syracuse
+4757,5125,Texas
+4758,5126,Auburn
+4759,5127,Illinois
+4760,5128,West Virginia
+4761,5129,Florida State
+4762,5130,University of California Irvine
+4763,5131,Kentucky Wesleyan College
+4764,5132,LSU
+4765,5133,South Carolina
+4766,5134,Providence
+4767,5135,West Virginia Tech
+4768,5136,Bowling Green
+4769,5137,Canisius
+4770,5138,Washington
+4771,5139,Washington & Jefferson College
+4772,5140,Thomas More College
+4773,5141,Gonzaga
+4774,5142,Cleveland State University
+4775,5143,Michigan State
+4776,5144,Gonzaga
+4777,5145,Kentucky
+4778,5146,Kentucky Wesleyan College
+4779,5147,Iowa State
+4780,5148,Oklahoma
+4781,5149,Virginia
+4782,5151,Washington University in Saint Louis Notre Dame Wyoming
+4783,5152,Indiana
+4784,5153,University of California Irvine Arizona
+4785,5154,Creighton
+4786,5155,Arkansas
+4787,5156,Michigan
+4788,5157,Monroe Community College Chipola College Kansas State Memphis
+4789,5158,Louisiana
+4790,5159,Dayton
+4791,5160,Marshall
+4792,5161,BYU
+4793,5162,University of the Pacific
+4794,5163,Marquette
+4795,5164,Rhode Island Kentucky
+4796,5165,Dayton
+4797,5166,Long Island University
+4798,5167,Tennessee
+4799,5169,Marquette
+4800,5170,Indiana
+4801,5171,St. John's
+4802,5173,NC State
+4803,5174,Notre Dame
+4804,5175,Western Kentucky
+4805,5176,James Madison University
+4806,5177,Kentucky
+4807,5178,UCLA
+4808,5181,Cal State Long Beach
+4809,5182,Voorhees College Pasadena City College UNLV
+4810,5184,Michigan
+4811,5185,Ohio University
+4812,5186,Duke
+4813,5187,USC
+4814,5188,Seattle University
+4815,5189,Arizona
+4816,5190,DePaul
+4817,5191,Notre Dame
+4818,5192,California
+4819,5195,UC Santa Barbara
+4820,5196,West Virginia Kentucky
+4821,5197,Kentucky
+4822,5199,Oklahoma Baptist University
+4823,5200,Wisconsin
+4824,5201,Georgetown Wake Forest
+4825,5202,Duquesne
+4826,5203,Texas
+4827,5204,Florida Gulf Coast Little Rock
+4828,5205,Minnesota
+4829,5206,Gonzaga
+4830,5209,Memphis
+4831,5210,University of Akron
+4832,5211,Ole Miss
+4833,5212,Ohio State
+4834,5213,Paris Junior College TCU
+4835,5214,Cal State Fullerton
+4836,5215,Nebraska
+4837,5216,Western Kentucky
+4838,5217,Louisville
+4839,5218,Vanderbilt
+4840,5219,Georgetown Phillips University
+4841,5220,Texas
+4842,5221,Kentucky
+4843,5222,Kentucky
+4844,5223,Old Dominion
+4845,5224,Cincinnati
+4846,5225,DePaul Texas
+4847,5227,Detroit Mercy
+4848,5228,Louisville
+4849,5229,Clemson
+4850,5230,Texas Texas Tech California
+4851,5231,Siena College
+4852,5232,Michigan Baylor
+4853,5233,San Francisco Portland State
+4854,5236,Kentucky
+4855,5237,South Dakota Arkansas
+4856,5238,Louisville
+4857,5239,Long Island University
+4858,5240,Utah
+4859,5241,Iowa
+4860,5242,Tulsa
+4861,5243,Duke
+4862,5245,Kansas
+4863,5246,Michigan State
+4864,5247,Old Dominion
+4865,5248,UCLA
+4866,5249,Indiana
+4867,5250,Indiana
+4868,5251,Trinity Valley CC Cincinnati
+4869,5252,Utah
+4870,5253,Saint Francis University
+4871,5254,Azusa Pacific University
+4872,5255,Wichita State
+4873,5256,Illinois
+4874,5257,Green Bay
+4875,5258,Kentucky
+4876,5259,Colgate
+4877,5260,UCLA
+4878,5261,Santa Clara
+4879,5262,St. Bonaventure
+4880,5265,Mississippi State
+4881,5266,Maryland
+4882,5267,Florida State
+4883,5268,Southern Illinois
+4884,5269,Oral Roberts
+4885,5270,Memphis
+4886,5271,Kansas
+4887,5272,UNLV
+4888,5273,Western Kentucky
+4889,5274,Michigan
+4890,5275,Duke
+4891,5276,Fresno State
+4892,5281,UConn
+4893,5282,UC Santa Barbara
+4894,5283,Michigan State
+4895,5284,Michigan State
+4896,5286,Georgia Tech
+4897,5287,Murray State
+4898,5288,Notre Dame
+4899,5289,Wyoming
+4900,5291,Penn State
+4901,5292,Indiana
+4902,5293,UConn
+4903,5294,Utah
+4904,5297,UCLA UNLV
+4905,5298,Iowa State
+4906,5299,USC
+4907,5302,NYU
+4908,5303,Vanderbilt
+4909,5304,Kansas State
+4910,5305,Marquette
+4911,5306,Oklahoma UNLV
+4912,5307,Florida State
+4913,5308,Saint Mary's University of Minnesota
+4914,5309,Memphis
+4915,5310,Texas
+4916,5311,Michigan
+4917,5312,Louisville
+4918,5313,Michigan
+4919,5314,Georgia Tech
+4920,5315,Baylor
+4921,5316,Syracuse
+4922,5317,Ohio State
+4923,5318,Loyola Chicago
+4924,5319,Florida
+4925,5320,Niagara University
+4926,5321,Kentucky
+4927,5322,BYU
+4928,5323,Bradley
+4929,5324,Arkansas
+4930,5325,Vincennes University West Georgia
+4931,5326,Kansas State
+4932,5327,Michigan State
+4933,5328,Colorado
+4934,5329,Houston
+4935,5330,Providence
+4936,5331,UConn
+4937,5332,Kentucky
+4938,5333,Miami (FL)
+4939,5334,Florida State
+4940,5335,Millersville
+4941,5336,Louisville
+4942,5337,Virginia
+4943,5338,Kentucky
+4944,5339,Cuyahoga Community College Virginia Union University
+4945,5340,Kentucky
+4946,5341,Alabama
+4947,5342,Syracuse
+4948,5343,Texas-San Antonio
+4949,5344,UNC
+4950,5345,University of Scranton
+4951,5346,California
+4952,5347,Tennessee State
+4953,5348,Virginia Union University
+4954,5349,Stanford
+4955,5350,Arkansas
+4956,5351,Florida
+4957,5352,Baylor
+4958,5353,Northwestern Kansas
+4959,5354,Tennessee
+4960,5356,UCLA
+4961,5357,Michigan
+4962,5358,Marquette
+4963,5359,Arizona
+4964,5360,Pitt
+4965,5361,Seton Hall
+4966,5362,Georgia Southern University
+4967,5363,Florida State
+4968,5364,Boston College
+4969,5365,Jackson State University
+4970,5366,Cal State Long Beach
+4971,5367,Oklahoma City University
+4972,5368,Oregon Indiana
+4973,5369,Tennessee State
+4974,5370,University of Southern Colorado Pepperdine
+4975,5371,Jackson State University
+4976,5372,Stony Brook University
+4977,5373,Vanderbilt
+4978,5374,St. John's
+4979,5375,NC State
+4980,5376,Oklahoma
+4981,5377,Saint Joseph's
+4982,5378,Syracuse
+4983,5379,NC State
+4984,5380,Texas-El Paso
+4985,5381,Eastern Kentucky University
+4986,5382,Memphis
+4987,5383,UNC
+4988,5384,Middle Tennessee
+4989,5385,Ohio State
+4990,5386,Alabama
+4991,5387,Villanova
+4992,5388,American University
+4993,5389,Kentucky
+4994,5390,Syracuse
+4995,5391,UCLA
+4996,5392,University of San Diego
+4997,5393,Cheyney (PA)
+4998,5394,Kentucky
+4999,5395,Old Dominion
+5000,5396,George Washington
+5001,5397,Oklahoma State
+5002,5398,LSU
+5003,5399,LSU
+5004,5400,Syracuse
+5005,5401,VCU Florida State
+5006,5402,Gonzaga
+5007,5403,Kentucky
+5008,5404,Tennessee
+5009,5405,UCLA
+5010,5406,South Carolina
+5011,5407,Fresno State
+5012,5408,UCLA
+5013,5409,Wake Forest
+5014,5410,Florida A&M University of Great Falls
+5015,5411,Xavier University of Louisiana
+5016,5412,Villanova
+5017,5413,UNC UCLA
+5018,5414,UNC UCLA
+5019,5415,Southern Miss
+5020,5416,Illinois
+5021,5417,Mississippi State
+5022,5418,Washington State
+5023,5419,Boise State
+5024,5420,Kansas State
+5025,5421,Alabama
+5026,5422,Midland College NC State
+5027,5423,Michigan
+5028,5424,VCU
+5029,5425,Purdue
+5030,5426,Wharton County Junior College Saint Peter's College
+5031,5427,Oklahoma
+5032,5429,Morgan State University
+5033,5430,Colorado
+5034,5431,Arkansas
+5035,5432,Rice University
+5036,5433,William & Mary
+5037,5434,Penn State
+5038,5435,Northeastern University
+5039,5436,Ball State University
+5040,5437,Austin Peay State University
+5041,5438,Sonoma State University Washington State
+5042,5439,Detroit Mercy
+5043,5440,Northwestern
+5044,5441,Washington
+5045,5443,UCLA
+5046,5445,St. John's
+5047,5446,UNC
+5048,5447,St. John's
+5049,5448,St. John's
+5050,5449,Notre Dame
+5051,5450,Baylor
+5052,5451,Kansas
+5053,5452,Xavier
+5054,5453,Saint Joseph's
+5055,5454,Villanova
+5056,5455,West Virginia
+5057,5456,Georgia Tech
+5058,5457,Old Dominion
+5059,5458,Cincinnati
+5060,5459,Providence
+5061,5460,UCLA
+5062,5461,USC
+5063,5462,Virginia Tech
+5064,5463,Barton County Community College Cincinnati Walsh University
+5065,5464,Alabama
+5066,5465,Louisville
+5067,5466,William Paterson University
+5068,5468,Rhode Island
+5069,5469,Kentucky
+5070,5470,Nebraska Syracuse
+5071,5471,UNC
+5072,5472,Indiana
+5073,5473,Colorado-Colorado Springs Colorado
+5074,5474,Pepperdine
+5075,5475,Georgia
+5076,5476,Villanova
+5077,5477,Duke
+5078,5478,Georgetown
+5079,5479,Florida Cincinnati
+5080,5480,Kansas
+5081,5481,Florida State
+5082,5482,Louisiana Tech
+5083,5483,UNC Charlotte
+5084,5484,University of South Alabama
+5085,5485,Iowa State
+5086,5486,Arizona State
+5087,5487,Tennessee
+5088,5488,Chattanooga
+5089,5489,Seton Hall
+5090,5490,Marquette
+5091,5491,Northern Illinois
+5092,5492,Marshall
+5093,5493,Jackson State University
+5094,5494,Villanova
+5095,5495,Clemson
+5096,5496,Iowa State
+5097,5497,NC State
+5098,5498,Georgetown
+5099,5499,Western Michigan
+5100,5500,Santa Monica College UCLA
+5101,5501,Tennessee
+5102,5502,Iowa
+5103,5503,Cincinnati
+5104,5504,Iowa
+5105,5505,Maryland
+5106,5506,Kansas
+5107,5507,Clemson Florida State
+5108,5508,Iowa State
+5109,5509,Central State University
+5110,5510,Washington
+5111,5511,Maryland
+5112,5512,Saint Louis
+5113,5513,Wichita State
+5114,5514,Eastern Washington
+5115,5515,Cal State Long Beach
+5116,5516,Cal State Long Beach
+5117,5517,Memphis
+5118,5518,Providence
+5119,5519,Indiana
+5120,5520,UCLA
+5121,5521,UCLA
+5122,5522,NC State Georgia
+5123,5523,Georgia
+5124,5524,Gardner-Webb University
+5125,5525,Chattanooga
+5126,5526,Illinois State
+5127,5527,Idaho State University
+5128,5528,Rice University
+5129,5529,Xavier
+5130,5530,Drake University
+5131,5531,UC Santa Barbara
+5132,5532,Triton College Oklahoma Wake Forest
+5133,5533,Villanova
+5134,5534,Drexel Kentucky
+5135,5535,Cal Poly Pomona
+5136,5536,La Salle
+5137,5537,Florida A&M
+5138,5538,Davidson
+5139,5539,Arizona
+5140,5540,Maryland
+5141,5541,NC State
+5142,5542,Seattle University
+5143,5543,Colorado
+5144,5544,Kansas State
+5145,5545,Bowling Green
+5146,5546,Colorado
+5147,5547,Oklahoma State
+5148,5548,Illinois
+5149,5549,Arizona
+5150,5550,Texas UNLV
+5151,5551,Notre Dame
+5152,5552,Winston-Salem State
+5153,5553,Duke Memphis
+5154,5554,Vincennes University Providence
+5155,5555,Austin Peay State University
+5156,5556,Illinois
+5157,5557,Portland State
+5158,5558,Kansas State
+5159,5559,Tennessee
+5160,5560,USC
+5161,5561,San Francisco Washington State
+5162,5562,Jacksonville University
+5163,5563,Ohio State
+5164,5564,Tulane
+5165,5565,Santa Clara
+5166,5566,Marshall Florida
+5167,5567,UNC
+5168,5568,Duke
+5169,5569,Arkansas
+5170,5570,St. John's
+5171,5571,Buffalo
+5172,5572,Georgetown
+5173,5573,LSU
+5174,5574,Missouri Gonzaga
+5175,5575,Maryland
+5176,5576,Wyoming
+5177,5577,Barton County Community College Elizabeth City State University
+5178,5578,TCU
+5179,5579,TCU St. John's
+5180,5580,Stetson University
+5181,5582,Louisville
+5182,5583,UConn
+5183,5584,Arizona
+5184,5585,Duke
+5185,5586,UNC
+5186,5587,Central Florida
+5187,5588,Baylor
+5188,5589,Cincinnati Bradley
+5189,5590,Lincoln University of Missouri
+5190,5591,Alabama
+5191,5592,Notre Dame
+5192,5593,Utah State University
+5193,5594,Florida State
+5194,5595,Arizona
+5195,5596,Minnesota
+5196,5597,Georgetown
+5197,5598,Virginia Military Institute
+5198,5599,New Mexico Cal State Long Beach
+5199,5600,Houston
+5200,5601,Texas A&M
+5201,5602,West Virginia
+5202,5603,Iowa
+5203,5604,Arizona State
+5204,5605,UNC
+5205,5606,Boston College
+5206,5607,UNC
+5207,5608,Memphis
+5208,5609,Duke
+5209,5610,Rhode Island
+5210,5611,Louisville
+5211,5612,South Carolina State
+5212,5613,Indiana
+5213,5614,VCU
+5214,5615,Maryland
+5215,5616,Indiana
+5216,5617,Miami-Dade College Florida State
+5217,5618,Stanford
+5218,5619,Gonzaga Washington
+5219,5620,Arkansas
+5220,5621,New Mexico State
+5221,5622,Duke
+5222,5623,NC State
+5223,5624,Michigan State
+5224,5626,New Orleans Iowa State
+5225,5627,West Virginia State University
+5226,5628,Kansas
+5227,5629,Wichita State
+5228,5630,Western Carolina University
+5229,5631,Michigan
+5230,5632,Cincinnati
+5231,5633,University of Baltimore
+5232,5634,Kansas
+5233,5635,Oregon Marquette
+5234,5636,Southern University and A&M College
+5235,5637,Cheyney (PA)
+5236,5638,Marquette
+5237,5639,LSU
+5238,5640,Virginia
+5239,5641,Louisville
+5240,5642,George Mason
+5241,5643,Hanover College
+5242,5644,UCLA
+5243,5645,Kentucky Gonzaga
+5244,5646,James Madison University Averett University
+5245,5647,Wyoming
+5246,5648,Belmont
+5247,5649,Stanford
+5248,5650,University of North Texas
+5249,5651,Georgetown
+5250,5652,Cincinnati
+5251,5653,Friendship Junior College
+5252,5654,Louisiana
+5253,5655,Duke
+5254,5656,Houston
+5255,5657,Michigan State
+5256,5658,Minnesota
+5257,5659,South Carolina
+5258,5660,Bradley
+5259,5661,Clemson
+5260,5662,City College of San Francisco Drake University
+5261,5663,Memphis
+5262,5664,Kansas
+5263,5665,Ohio State
+5264,5666,Western Carolina University
+5265,5667,Indiana
+5266,5668,Holy Cross
+5267,5669,Penn
+5268,5670,Yale Michigan
+5269,5671,UNC
+5270,5673,South Dakota State
+5271,5674,Miami (FL)
+5272,5675,UNC
+5273,5676,Northern Illinois
+5274,5677,UNLV
+5275,5678,Nevada
+5276,5679,Tennessee
+5277,5680,Arizona Cal State Fullerton
+5278,5681,Mississippi State
+5279,5682,Wake Forest Arizona
+5280,5683,Northeast Mississippi Community College
+5281,5684,La Salle
+5282,5685,East Tennessee State University
+5283,5686,Indiana
+5284,5687,Wake Forest
+5285,5688,Notre Dame
+5286,5689,Winston-Salem State Oral Roberts
+5287,5690,West Virginia
+5288,5691,Seattle University
+5289,5692,St. John's
+5290,5693,Texas-El Paso
+5291,5694,Marquette
+5292,5695,UNC
+5293,5696,Texas A&M
+5294,5697,Indiana
+5295,5698,UCLA
+5296,5699,UNC
+5297,5700,Dayton
+5298,5701,Georgetown
+5299,5702,Utah
+5300,5704,Stanford
+5301,5705,Austin Peay State University
+5302,5706,Indiana
+5303,5707,Kansas
+5304,5708,Grambling State University
+5305,5709,University of the Pacific
+5306,5710,Colorado State
+5307,5711,Memphis
+5308,5712,Seton Hall
+5309,5713,Colorado
+5310,5714,Georgia Tech
+5311,5715,Clemson
+5312,5716,Hofstra
+5313,5717,Washington
+5314,5718,UNC
+5315,5719,UMass Fairfield
+5316,5721,Tennessee
+5317,5722,Stanford
+5318,5723,Maryland
+5319,5724,Memphis
+5320,5725,Fordham
+5321,5726,UNC
+5322,5727,Arizona
+5323,5728,Wake Forest
+5324,5729,UNC Charlotte Maryland
+5325,5730,Kentucky
+5326,5731,Houston Oregon
+5327,5733,Houston
+5328,5734,USC
+5329,5735,Virginia Tech
+5330,5736,Pitt
+5331,5737,Georgia Tech
+5332,5738,Stanford
+5333,5739,Oklahoma
+5334,5740,Kennesaw State University South Florida Alabama
+5335,5742,NC State Georgetown
+5336,5743,St. John's
+5337,5744,St. John's
+5338,5745,Indiana
+5339,5746,Miami University
+5340,5747,University of North Texas Long Beach City College Drake University
+5341,5748,Washington & Jefferson College Pitt
+5342,5749,Notre Dame
+5343,5750,UNC
+5344,5751,Arizona State
+5345,5752,Seattle Pacific University Washington
+5346,5754,UCLA
+5347,5755,Mississippi State
+5348,5756,UNLV
+5349,5759,Kent State University
+5350,5760,Duquesne
+5351,5762,George Washington

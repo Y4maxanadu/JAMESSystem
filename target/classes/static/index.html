@@ -16,11 +16,30 @@
             min-height: 100vh;
             color: #fff;
         }
+        /* 改造header：添加背景图+蒙版 */
         .header {
+            position: relative; /* 用于蒙版定位 */
             background: rgba(0,0,0,0.3);
-            padding: 20px;
+            padding: 60px 20px; /* 增加内边距，适配图片展示 */
             text-align: center;
             border-bottom: 2px solid #f39c12;
+            overflow: hidden; /* 防止图片溢出 */
+        }
+        /* 背景图片层 */
+        .header-bg {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('/images/most_viewed_player_pages.png') center center / cover no-repeat;
+            opacity: 0.25; /* 半透明，不遮挡文字 */
+            z-index: 0; /* 放在文字下方 */
+        }
+        /* 文字层（盖在图片上） */
+        .header-content {
+            position: relative;
+            z-index: 1;
         }
         .header h1 {
             font-size: 2.5em;
@@ -82,37 +101,42 @@
     </style>
 </head>
 <body>
-    <div class="header">
+<div class="header">
+    <!-- 背景图片层 -->
+    <div class="header-bg"></div>
+    <!-- 文字内容层 -->
+    <div class="header-content">
         <h1>🏀 James Basketball System</h1>
         <p>NBA 球星数据展示系统</p>
     </div>
-    <div class="container">
-        <div class="card-grid">
-            <div class="card">
-                <div class="card-icon">👤</div>
-                <h3>球员管理</h3>
-                <p>管理 NBA 球员基本信息</p>
-            </div>
-            <div class="card">
-                <div class="card-icon">📊</div>
-                <h3>数据统计</h3>
-                <p>查看球员赛季数据统计</p>
-            </div>
-            <div class="card">
-                <div class="card-icon">🏆</div>
-                <h3>荣誉记录</h3>
-                <p>球员生涯荣誉与成就</p>
-            </div>
-            <div class="card">
-                <div class="card-icon">⚙️</div>
-                <h3>系统设置</h3>
-                <p>系统配置与管理</p>
-            </div>
+</div>
+<div class="container">
+    <div class="card-grid">
+        <div class="card">
+            <div class="card-icon">👤</div>
+            <h3>球员管理</h3>
+            <p>管理 NBA 球员基本信息</p>
         </div>
-        <div class="status">
-            <h3>✅ 系统运行正常</h3>
-            <p>Spring Boot 4.0.0 | JDK 25 | MyBatis</p>
+        <div class="card">
+            <div class="card-icon">📊</div>
+            <h3>数据统计</h3>
+            <p>查看球员赛季数据统计</p>
+        </div>
+        <div class="card">
+            <div class="card-icon">🏆</div>
+            <h3>荣誉记录</h3>
+            <p>球员生涯荣誉与成就</p>
+        </div>
+        <div class="card">
+            <div class="card-icon">⚙️</div>
+            <h3>系统设置</h3>
+            <p>系统配置与管理</p>
         </div>
     </div>
+    <div class="status">
+        <h3>✅ 系统运行正常</h3>
+        <p>Spring Boot 4.0.0 | JDK 25 | MyBatis</p>
+    </div>
+</div>
 </body>
 </html>
